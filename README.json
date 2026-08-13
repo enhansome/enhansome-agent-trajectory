@@ -1,0 +1,460 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(NeurIPS Dataset&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail? [Paper",
+          "description": "] | Analyzes recurring failure modes in multi-agent systems and develops a taxonomy spanning agent design, coordination, and verification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-23T07:37:41Z",
+            "owner": "multi-agent-systems-failure-taxonomy",
+            "repo": "MAST",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ASE 2025 Distinguished Paper Award) Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories [Paper",
+          "description": "] | Studies 120 trajectories and 2,822 LLM interactions, identifying recurring motifs, anti-patterns, token-use patterns, and feedback-integration agentic coding behavior.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-05T15:30:00Z",
+            "owner": "sola-st",
+            "repo": "llm-agents-study",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ASE-NIER 2025) Exploring autonomous agents: A closer look at why they fail when completing tasks [Paper",
+          "description": "] | Develops a three-tier taxonomy that characterizes autonomous-agent failures across task-planning, task-execution, and response-generation phases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-15T01:52:27Z",
+            "owner": "lurf21",
+            "repo": "Agent_Evaluation_Framework",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) Failure as a Process: An Anatomy of CLI Coding Agent Trajectories [Paper",
+          "description": "] | Studies failure as a developing process across CLI-agent trajectories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T15:32:04Z",
+            "owner": "xz-Sean",
+            "repo": "cli_trajectory_analysis",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Empirical Study/Characterization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems [Paper",
+          "description": "] | Formalizes automated failure attribution at both the agent and step levels and introduces the Who&When benchmark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T17:30:51Z",
+            "owner": "ag2ai",
+            "repo": "Agents_Failure_Attribution",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories [Paper",
+          "description": "] | Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T09:29:32Z",
+            "owner": "microsoft",
+            "repo": "AgentRx",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems? [Paper",
+          "description": "] | Trains an AgenTracer-8B via counterfactual replay and programmed fault injection to attribute failures to responsible agents or trajectory segments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-12T16:46:02Z",
+            "owner": "bingreeky",
+            "repo": "AgenTracer",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ACL 2026) Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems [Paper",
+          "description": "] | Introduces TraceElephant, a benchmark and evaluation framework that captures complete multi-agent execution traces for assessing failure attribution across agents, interactions, and time steps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T02:40:42Z",
+            "owner": "TraceElephant",
+            "repo": "TraceElephant",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2025) Abduct, Act, Predict: Scaffolding Causal Inference for Automated Failure Attribution in Multi-Agent Systems [Paper",
+          "description": "] | Uses abductive reasoning, interventions, and predictions to causally attribute multi-agent failures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-12T19:03:24Z",
+            "owner": "ResearAI",
+            "repo": "A2P",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems [Paper",
+          "description": "] | Uses an investigator agent with context-reduction mechanisms to localize the earliest decisive error step in repository-level coding-agent trajectories and generate diagnostic justifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T06:19:36Z",
+            "owner": "LogAnalysisTech",
+            "repo": "TrajAudit",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems [Paper",
+          "description": "] | Encodes execution logs into temporal semantic sequences with an LLM, then uses lightweight temporal modeling and attention over the sequence to score and localize the root-cause step, cutting inference time by 79% versus the fastest LLM-based baseline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-28T16:08:27Z",
+            "owner": "taiyu-zhu",
+            "repo": "StepFinder",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Failure Localization, Attribution, and Diagnosis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ACL 2026) ReCreate: Reasoning and Creating Domain Agents Driven by Experience [Paper",
+          "description": "] | Uses accumulated execution experience to construct and refine domain-specific agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T17:08:41Z",
+            "owner": "zz-haooo",
+            "repo": "ReCreate",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness [Paper",
+          "description": "] | Uses trajectory feedback to evolve prompts and improve future agent performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T03:01:04Z",
+            "owner": "JarvisPei",
+            "repo": "SCOPE",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills [Paper",
+          "description": "] | Extracts local lessons from execution traces and converts them into reusable skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T10:00:07Z",
+            "owner": "Hert4",
+            "repo": "trace2skill",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Learning and Optimization from Trajectories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning [Paper",
+          "description": "] | Dynamically generates task-specific rubrics to evaluate agent trajectories step by step and produce confidence-weighted preference data for reward learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-07T12:28:48Z",
+            "owner": "alphadl",
+            "repo": "AdaRubrics",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents [Paper",
+          "description": "] | Introduces human-annotated trajectories and methods for evaluating the quality of individual reasoning and tool-use steps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-17T08:02:49Z",
+            "owner": "RUCBM",
+            "repo": "AgentProcessBench",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) MAESTRO: Multi-Agent Evaluation Suite for Testing, Reliability, and Observability [Paper",
+          "description": "] | Provides evaluation dimensions and testing infrastructure for multi-agent reliability and observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T05:28:52Z",
+            "owner": "sands-lab",
+            "repo": "maestro",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents [Paper",
+          "description": "] | Introduces a co-evolution framework that jointly improves an agent and a hierarchical rubric model to provide interpretable step-level process rewards for multi-step trajectories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T02:11:29Z",
+            "owner": "zihangtian",
+            "repo": "ARCO",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ACL-Findings 2026) ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents [Paper",
+          "description": "] | Introduces a large-scale benchmark of structured, step-level test cases for evaluating and advancing process reward models in tool-using agent scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T00:06:17Z",
+            "owner": "David-Li0406",
+            "repo": "ToolPRMBench",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) Agent Step Value: State-Transition Measurement with State-Grounded LLM Evaluators [Paper",
+          "description": "] | Measures the value of each agent action by evaluating the change it induces between consecutive environment states with state-grounded LLM evaluators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-05T16:15:25Z",
+            "owner": "andyzpb",
+            "repo": "asv-eval",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Trajectory Quality Assessment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF [Paper",
+          "description": "] | Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:49:54Z",
+            "owner": "eunomia-bpf",
+            "repo": "agentsight",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) CodeTracer: Towards Traceable Agent States [Paper",
+          "description": "] | Introduces explicit representations of coding-agent states to support stage- and step-level failure tracing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T12:04:16Z",
+            "owner": "NJU-LINK",
+            "repo": "CodeTracer",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) GRADE: Graph Representation of LLM Agent Dependency and Execution [Paper",
+          "description": "] | Models an agent run as a two-layer graph with execution edges and dependency edges graded, to predict failure likelihood and localize the faulting step.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T11:35:08Z",
+            "owner": "yzhao062",
+            "repo": "grade",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Trajectory Representation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Trajectory Benchmarks and Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ClawBench [Paper",
+          "description": "] [Code] [Data] | Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T01:43:46Z",
+            "owner": "TIGER-AI-Lab",
+            "repo": "ClawBench",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Who&When [Paper",
+          "description": "] | 127 multi-agent trajectories annotated with the responsible agent and the time at which the failure was introduced.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T17:30:51Z",
+            "owner": "ag2ai",
+            "repo": "Agents_Failure_Attribution",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentErrorBench [Paper",
+          "description": "] | 200 multi-agent/embodied executions (ALFWorld, GAIA, WebShop) annotated under the AgentErrorTaxonomy for failure analysis and attribution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T03:31:41Z",
+            "owner": "ulab-uiuc",
+            "repo": "AgentDebug",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aegis [Paper",
+          "description": "] | 9,533 trajectories across diverse MAS architectures and task domains, automatically labeled with faulty agents and error modes via an LLM-based error injector, supporting SFT, RL, and contrastive-learning training paradigms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T13:29:27Z",
+            "owner": "kfq20",
+            "repo": "AEGIS",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MP-Bench [Paper",
+          "description": "] | Multi-perspective attribution data (289 instances) containing per-annotator failure-reason and ideal-action annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T08:49:28Z",
+            "owner": "yeonjun-in",
+            "repo": "MP-Bench",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "General Agents/Mixed"
+    },
+    {
+      "description": "Contributions are welcome! To add a paper, tool, or benchmark:\nOpen a pull request. Add an entry to the most relevant section, following the existing format: followed by a one-sentence description and lowercase, hyphenated topic tags.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "For any enquiries, please contact Dr. Yintong Huo (ythuo@smu.edu.sg) or Minxing Wang (mx.wang.2026@phdcs.smu.edu.sg). We welcome any discussions and suggestions :)",
+      "items": [],
+      "title": "Contacting"
+    },
+    {
+      "description": "CC0 | to the extent possible under law, this list is released into the public domain.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:31.904Z",
+    "original_repository": "YintongHuo/awesome-agent-trajectory",
+    "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",
+    "enhanced_repository": "enhansome/enhansome-agent-trajectory",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Agent-Trajectory with stars"
+  }
+}
