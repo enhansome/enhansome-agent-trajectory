@@ -14,7 +14,7 @@
             "last_commit": "2025-07-23T07:37:41Z",
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 404
+            "stars": 405
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-06-23T02:11:29Z",
             "owner": "zihangtian",
             "repo": "ARCO",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -315,10 +315,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T03:49:54Z",
+            "last_commit": "2026-08-13T18:36:37Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 580
+            "stars": 583
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-08T01:43:46Z",
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 560
+            "stars": 561
           }
         },
         {
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:31.904Z",
+    "last_updated": "2026-08-13T18:40:18.505Z",
     "original_repository": "YintongHuo/awesome-agent-trajectory",
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",
     "enhanced_repository": "enhansome/enhansome-agent-trajectory",
