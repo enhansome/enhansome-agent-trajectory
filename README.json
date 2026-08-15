@@ -315,10 +315,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T05:28:45Z",
+            "last_commit": "2026-08-15T05:31:47Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 587
+            "stars": 588
           }
         },
         {
@@ -368,10 +368,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-08T01:43:46Z",
+            "last_commit": "2026-08-15T14:18:31Z",
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 563
+            "stars": 566
           }
         },
         {
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:35:26.693Z",
+    "last_updated": "2026-08-15T17:59:52.902Z",
     "original_repository": "YintongHuo/awesome-agent-trajectory",
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",
     "enhanced_repository": "enhansome/enhansome-agent-trajectory",
