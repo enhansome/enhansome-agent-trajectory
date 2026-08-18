@@ -180,7 +180,7 @@
             "last_commit": "2026-04-29T17:08:41Z",
             "owner": "zz-haooo",
             "repo": "ReCreate",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-05-04T10:00:07Z",
             "owner": "Hert4",
             "repo": "trace2skill",
-            "stars": 3
+            "stars": 4
           }
         }
       ],
@@ -315,10 +315,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T16:27:47Z",
+            "last_commit": "2026-08-18T17:09:14Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 591
+            "stars": 592
           }
         },
         {
@@ -368,10 +368,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T03:27:40Z",
+            "last_commit": "2026-08-18T12:19:09Z",
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 567
+            "stars": 568
           }
         },
         {
@@ -427,7 +427,7 @@
             "last_commit": "2026-07-16T08:49:28Z",
             "owner": "yeonjun-in",
             "repo": "MP-Bench",
-            "stars": 10
+            "stars": 11
           }
         }
       ],
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T18:14:59.874Z",
+    "last_updated": "2026-08-18T18:13:27.392Z",
     "original_repository": "YintongHuo/awesome-agent-trajectory",
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",
     "enhanced_repository": "enhansome/enhansome-agent-trajectory",

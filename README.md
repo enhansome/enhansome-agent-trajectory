@@ -230,7 +230,7 @@ This repository is under active maintenance!
 
 > *Methods that use historical trajectories to improve subsequent agent executions.*
 
-1. **(ACL 2026) ReCreate: Reasoning and Creating Domain Agents Driven by Experience** \[[Paper](https://arxiv.org/abs/2601.11100)] [![GitHub Repo stars](https://img.shields.io/github/stars/zz-haooo/ReCreate)](https://github.com/zz-haooo/ReCreate) ⭐ 164 | 🐛 0 | 🌐 Python | 📅 2026-04-29
+1. **(ACL 2026) ReCreate: Reasoning and Creating Domain Agents Driven by Experience** \[[Paper](https://arxiv.org/abs/2601.11100)] [![GitHub Repo stars](https://img.shields.io/github/stars/zz-haooo/ReCreate)](https://github.com/zz-haooo/ReCreate) ⭐ 165 | 🐛 0 | 🌐 Python | 📅 2026-04-29
    \| Uses accumulated execution experience to construct and refine domain-specific agents.
    `general-agent` `experience-learning` `agent-construction`
 
@@ -238,7 +238,7 @@ This repository is under active maintenance!
    \| Uses trajectory feedback to evolve prompts and improve future agent performance.
    `general-agent` `prompt-optimization` `self-evolution`
 
-3. **(arXiv 2026) Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills** \[[Paper](https://arxiv.org/abs/2603.25158)] [![GitHub Repo stars](https://img.shields.io/github/stars/Hert4/trace2skill)](https://github.com/Hert4/trace2skill) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-05-04
+3. **(arXiv 2026) Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills** \[[Paper](https://arxiv.org/abs/2603.25158)] [![GitHub Repo stars](https://img.shields.io/github/stars/Hert4/trace2skill)](https://github.com/Hert4/trace2skill) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-05-04
    \| Extracts local lessons from execution traces and converts them into reusable skills.
    `general-agent` `skill-distillation` `experience-learning`
 
@@ -326,7 +326,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 591 | 🐛 22 | 🌐 C | 📅 2026-08-17
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 592 | 🐛 23 | 🌐 C | 📅 2026-08-18
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -382,7 +382,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 567 | 🐛 40 | 🌐 Python | 📅 2026-08-17] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 568 | 🐛 56 | 🌐 Python | 📅 2026-08-18] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -398,7 +398,7 @@ This repository is under active maintenance!
    \| 9,533 trajectories across diverse MAS architectures and task domains, automatically labeled with faulty agents and error modes via an LLM-based error injector, supporting SFT, RL, and contrastive-learning training paradigms.
    `multi-agent` `failure-attribution` `automated-annotation`
 
-5. **MP-Bench** \[[Paper](https://arxiv.org/abs/2603.25001)] [![GitHub Repo stars](https://img.shields.io/github/stars/yeonjun-in/MP-Bench)](https://github.com/yeonjun-in/MP-Bench) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-16
+5. **MP-Bench** \[[Paper](https://arxiv.org/abs/2603.25001)] [![GitHub Repo stars](https://img.shields.io/github/stars/yeonjun-in/MP-Bench)](https://github.com/yeonjun-in/MP-Bench) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-16
    \| Multi-perspective attribution data (289 instances) containing per-annotator failure-reason and ideal-action annotations.
    `multi-agent` `multi-perspective` `ideal-action`
 
@@ -439,4 +439,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
