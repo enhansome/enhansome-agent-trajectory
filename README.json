@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "Empirical research that describes how agents behave and identifies recurring trajectory structures, strategies, and failure patterns.",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 946468322,
             "language": "Python",
             "last_commit": "2025-07-23T07:37:41Z",
             "owner": "multi-agent-systems-failure-taxonomy",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1068411756,
             "language": "Python",
             "last_commit": "2026-05-05T15:30:00Z",
             "owner": "sola-st",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1018828184,
             "language": "Python",
             "last_commit": "2025-09-15T01:52:27Z",
             "owner": "lurf21",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1295476334,
             "language": "Python",
             "last_commit": "2026-07-09T15:32:04Z",
             "owner": "xz-Sean",
@@ -63,7 +67,7 @@
       "title": "Empirical Study/Characterization"
     },
     {
-      "description": "",
+      "description": "Methods that identify where a trajectory failed, which component was responsible, and why the failure occurred.",
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 975012144,
             "language": "Python",
             "last_commit": "2026-02-11T17:30:51Z",
             "owner": "ag2ai",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179342776,
             "language": "Python",
             "last_commit": "2026-06-22T09:29:32Z",
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 139
+            "stars": 140
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1049730924,
             "language": "HTML",
             "last_commit": "2025-11-12T16:46:02Z",
             "owner": "bingreeky",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1128792641,
             "language": "Python",
             "last_commit": "2026-04-27T02:40:42Z",
             "owner": "TraceElephant",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1055660983,
             "language": "Python",
             "last_commit": "2025-09-12T19:03:24Z",
             "owner": "ResearAI",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1249762364,
             "language": "Python",
             "last_commit": "2026-07-10T06:19:36Z",
             "owner": "LogAnalysisTech",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1247586045,
             "language": "Python",
             "last_commit": "2026-05-28T16:08:27Z",
             "owner": "taiyu-zhu",
@@ -167,7 +178,7 @@
       "title": "Failure Localization, Attribution, and Diagnosis"
     },
     {
-      "description": "",
+      "description": "Methods that use historical trajectories to improve subsequent agent executions.",
       "items": [
         {
           "node_type": "item",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1134804500,
             "language": "Python",
             "last_commit": "2026-04-29T17:08:41Z",
             "owner": "zz-haooo",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1118604276,
             "language": "Python",
             "last_commit": "2026-03-26T03:01:04Z",
             "owner": "JarvisPei",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1217971766,
             "language": "Python",
             "last_commit": "2026-05-04T10:00:07Z",
             "owner": "Hert4",
@@ -215,7 +229,7 @@
       "title": "Learning and Optimization from Trajectories"
     },
     {
-      "description": "",
+      "description": "Methods that score the quality/rewarding of individual steps or whole trajectories.",
       "items": [
         {
           "node_type": "item",
@@ -224,11 +238,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1164205568,
             "language": "Python",
             "last_commit": "2026-06-07T12:28:48Z",
             "owner": "alphadl",
             "repo": "AdaRubrics",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182488086,
             "language": "Python",
             "last_commit": "2026-03-17T08:02:49Z",
             "owner": "RUCBM",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1112096128,
             "language": "Python",
             "last_commit": "2026-03-26T05:28:52Z",
             "owner": "sands-lab",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1272672451,
             "language": "Python",
             "last_commit": "2026-06-23T02:11:29Z",
             "owner": "zihangtian",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136507668,
             "language": "Python",
             "last_commit": "2026-07-01T00:06:17Z",
             "owner": "David-Li0406",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1290128962,
             "language": "Python",
             "last_commit": "2026-07-05T16:15:25Z",
             "owner": "andyzpb",
@@ -305,7 +325,7 @@
       "title": "Trajectory Quality Assessment"
     },
     {
-      "description": "",
+      "description": "Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.",
       "items": [
         {
           "node_type": "item",
@@ -314,11 +334,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1015665264,
             "language": "C",
             "last_commit": "2026-08-18T17:09:14Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 592
+            "stars": 593
           }
         },
         {
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1207101323,
             "language": "Python",
             "last_commit": "2026-06-19T12:04:16Z",
             "owner": "NJU-LINK",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1276348885,
             "language": "Python",
             "last_commit": "2026-07-19T11:35:08Z",
             "owner": "yzhao062",
@@ -353,105 +376,98 @@
       "title": "Trajectory Representation"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Trajectory Benchmarks and Datasets"
-    },
-    {
-      "description": "",
+      "description": "Benchmarks are organized by task domain.",
       "items": [
         {
-          "node_type": "item",
-          "title": "ClawBench [Paper",
-          "description": "] [Code] [Data] | Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T12:19:09Z",
-            "owner": "TIGER-AI-Lab",
-            "repo": "ClawBench",
-            "stars": 568
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Who&When [Paper",
-          "description": "] | 127 multi-agent trajectories annotated with the responsible agent and the time at which the failure was introduced.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-11T17:30:51Z",
-            "owner": "ag2ai",
-            "repo": "Agents_Failure_Attribution",
-            "stars": 382
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AgentErrorBench [Paper",
-          "description": "] | 200 multi-agent/embodied executions (ALFWorld, GAIA, WebShop) annotated under the AgentErrorTaxonomy for failure analysis and attribution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-30T03:31:41Z",
-            "owner": "ulab-uiuc",
-            "repo": "AgentDebug",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aegis [Paper",
-          "description": "] | 9,533 trajectories across diverse MAS architectures and task domains, automatically labeled with faulty agents and error modes via an LLM-based error injector, supporting SFT, RL, and contrastive-learning training paradigms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T05:11:58Z",
-            "owner": "kfq20",
-            "repo": "AEGIS",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MP-Bench [Paper",
-          "description": "] | Multi-perspective attribution data (289 instances) containing per-annotator failure-reason and ideal-action annotations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-16T08:49:28Z",
-            "owner": "yeonjun-in",
-            "repo": "MP-Bench",
-            "stars": 11
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ClawBench [Paper",
+              "description": "] [Code] [Data] | Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1206519531,
+                "language": "Python",
+                "last_commit": "2026-08-19T04:27:57Z",
+                "owner": "TIGER-AI-Lab",
+                "repo": "ClawBench",
+                "stars": 568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Who&When [Paper",
+              "description": "] | 127 multi-agent trajectories annotated with the responsible agent and the time at which the failure was introduced.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 975012144,
+                "language": "Python",
+                "last_commit": "2026-02-11T17:30:51Z",
+                "owner": "ag2ai",
+                "repo": "Agents_Failure_Attribution",
+                "stars": 382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentErrorBench [Paper",
+              "description": "] | 200 multi-agent/embodied executions (ALFWorld, GAIA, WebShop) annotated under the AgentErrorTaxonomy for failure analysis and attribution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1064899737,
+                "language": "Python",
+                "last_commit": "2026-03-30T03:31:41Z",
+                "owner": "ulab-uiuc",
+                "repo": "AgentDebug",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aegis [Paper",
+              "description": "] | 9,533 trajectories across diverse MAS architectures and task domains, automatically labeled with faulty agents and error modes via an LLM-based error injector, supporting SFT, RL, and contrastive-learning training paradigms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1057931536,
+                "language": "Python",
+                "last_commit": "2026-08-17T05:11:58Z",
+                "owner": "kfq20",
+                "repo": "AEGIS",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MP-Bench [Paper",
+              "description": "] | Multi-perspective attribution data (289 instances) containing per-annotator failure-reason and ideal-action annotations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1152721290,
+                "language": "Python",
+                "last_commit": "2026-07-16T08:49:28Z",
+                "owner": "yeonjun-in",
+                "repo": "MP-Bench",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General Agents/Mixed"
         }
       ],
-      "title": "General Agents/Mixed"
-    },
-    {
-      "description": "Contributions are welcome! To add a paper, tool, or benchmark:\nOpen a pull request. Add an entry to the most relevant section, following the existing format: followed by a one-sentence description and lowercase, hyphenated topic tags.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "For any enquiries, please contact Dr. Yintong Huo (ythuo@smu.edu.sg) or Minxing Wang (mx.wang.2026@phdcs.smu.edu.sg). We welcome any discussions and suggestions :)",
-      "items": [],
-      "title": "Contacting"
-    },
-    {
-      "description": "CC0 | to the extent possible under law, this list is released into the public domain.",
-      "items": [],
-      "title": "License"
+      "title": "Trajectory Benchmarks and Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:13:27.392Z",
+    "last_updated": "2026-08-19T12:16:01.034Z",
     "original_repository": "YintongHuo/awesome-agent-trajectory",
+    "original_repository_id": 1307432618,
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",
     "enhanced_repository": "enhansome/enhansome-agent-trajectory",
     "enhanced_repository_description": null,
