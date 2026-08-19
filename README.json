@@ -81,7 +81,7 @@
             "last_commit": "2026-02-11T17:30:51Z",
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 382
+            "stars": 383
           }
         },
         {
@@ -392,7 +392,7 @@
                 "last_commit": "2026-08-19T04:27:57Z",
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 568
+                "stars": 569
               }
             },
             {
@@ -407,7 +407,7 @@
                 "last_commit": "2026-02-11T17:30:51Z",
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 382
+                "stars": 383
               }
             },
             {
@@ -465,7 +465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:16:01.034Z",
+    "last_updated": "2026-08-19T18:02:19.079Z",
     "original_repository": "YintongHuo/awesome-agent-trajectory",
     "original_repository_id": 1307432618,
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",

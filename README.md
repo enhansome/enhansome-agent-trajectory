@@ -126,11 +126,11 @@ This repository is under active maintenance!
 
 > *Methods that identify where a trajectory failed, which component was responsible, and why the failure occurred.*
 
-1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 382 | 🐛 4 | 🌐 Python | 📅 2026-02-11
+1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 383 | 🐛 4 | 🌐 Python | 📅 2026-02-11
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
-2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 140 | 🐛 16 | 🌐 Python | 📅 2026-06-22
+2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 140 | 🐛 17 | 🌐 Python | 📅 2026-06-22
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
@@ -376,17 +376,17 @@ This repository is under active maintenance!
    \| Coding-agent trajectories (1,000 human-verified) with stage-level annotations for diagnosis.
    `stage-annotation` `failure-localization`
 
-4. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 93 | 🐛 6 | 🌐 Python | 📅 2026-07-24]
+4. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 93 | 🐛 7 | 🌐 Python | 📅 2026-07-24]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 568 | 🐛 49 | 🌐 Python | 📅 2026-08-19] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 569 | 🐛 50 | 🌐 Python | 📅 2026-08-19] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
-2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 382 | 🐛 4 | 🌐 Python | 📅 2026-02-11
+2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 383 | 🐛 4 | 🌐 Python | 📅 2026-02-11
    \| 127 multi-agent trajectories annotated with the responsible agent and the time at which the failure was introduced.
    `multi-agent` `agent-attribution` `temporal-localization`
 
