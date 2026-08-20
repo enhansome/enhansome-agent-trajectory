@@ -15,7 +15,7 @@
             "last_commit": "2025-07-23T07:37:41Z",
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 406
+            "stars": 407
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-18T17:09:14Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 593
+            "stars": 595
           }
         },
         {
@@ -465,7 +465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:02:19.079Z",
+    "last_updated": "2026-08-20T18:15:10.985Z",
     "original_repository": "YintongHuo/awesome-agent-trajectory",
     "original_repository_id": 1307432618,
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",
