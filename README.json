@@ -336,10 +336,10 @@
             "archived": false,
             "id": 1015665264,
             "language": "C",
-            "last_commit": "2026-08-18T17:09:14Z",
+            "last_commit": "2026-08-21T04:41:35Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 595
+            "stars": 597
           }
         },
         {
@@ -389,10 +389,10 @@
                 "archived": false,
                 "id": 1206519531,
                 "language": "Python",
-                "last_commit": "2026-08-19T04:27:57Z",
+                "last_commit": "2026-08-21T03:05:59Z",
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 569
+                "stars": 570
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2026-03-30T03:31:41Z",
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
-                "stars": 101
+                "stars": 100
               }
             },
             {
@@ -465,7 +465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:15:10.985Z",
+    "last_updated": "2026-08-21T18:14:52.271Z",
     "original_repository": "YintongHuo/awesome-agent-trajectory",
     "original_repository_id": 1307432618,
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",
