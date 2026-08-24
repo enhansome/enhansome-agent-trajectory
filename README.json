@@ -15,7 +15,7 @@
             "last_commit": "2025-07-23T07:37:41Z",
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 409
+            "stars": 410
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-02-11T17:30:51Z",
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 383
+            "stars": 384
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-04-27T02:40:42Z",
             "owner": "TraceElephant",
             "repo": "TraceElephant",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 1164205568,
             "language": "Python",
-            "last_commit": "2026-06-07T12:28:48Z",
+            "last_commit": "2026-08-24T06:33:01Z",
             "owner": "alphadl",
             "repo": "AdaRubrics",
             "stars": 354
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 1272672451,
             "language": "Python",
-            "last_commit": "2026-06-23T02:11:29Z",
+            "last_commit": "2026-08-24T03:54:44Z",
             "owner": "zihangtian",
             "repo": "ARCO",
-            "stars": 10
+            "stars": 9
           }
         },
         {
@@ -336,10 +336,10 @@
             "archived": false,
             "id": 1015665264,
             "language": "C",
-            "last_commit": "2026-08-22T10:37:31Z",
+            "last_commit": "2026-08-24T10:48:55Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 600
+            "stars": 602
           }
         },
         {
@@ -382,6 +382,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TraceLab [Paper",
+              "description": "] [Dataset] | A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1268228289,
+                "language": "Python",
+                "last_commit": "2026-08-22T08:02:11Z",
+                "owner": "uw-syfi",
+                "repo": "TraceLab",
+                "stars": 98
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Coding Agents"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ClawBench [Paper",
               "description": "] [Code] [Data] | Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.",
               "children": [],
@@ -392,7 +414,7 @@
                 "last_commit": "2026-08-22T20:48:02Z",
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 579
+                "stars": 581
               }
             },
             {
@@ -407,7 +429,7 @@
                 "last_commit": "2026-02-11T17:30:51Z",
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 383
+                "stars": 384
               }
             },
             {
@@ -422,7 +444,7 @@
                 "last_commit": "2026-03-30T03:31:41Z",
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
-                "stars": 100
+                "stars": 101
               }
             },
             {
@@ -465,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:00:24.980Z",
+    "last_updated": "2026-08-24T14:47:15.650Z",
     "original_repository": "YintongHuo/awesome-agent-trajectory",
     "original_repository_id": 1307432618,
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",
