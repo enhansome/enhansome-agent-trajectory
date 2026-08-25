@@ -82,7 +82,7 @@ This repository is under active maintenance!
    \| Analyzes recurring failure modes in multi-agent systems and develops a taxonomy spanning agent design, coordination, and verification.
    `multi-agent` `failure-taxonomy`
 
-2. **(ASE 2025 Distinguished Paper Award) Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories** \[[Paper](https://arxiv.org/abs/2506.18824)] [![GitHub Repo stars](https://img.shields.io/github/stars/sola-st/llm-agents-study)](https://github.com/sola-st/llm-agents-study) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-05-05
+2. **(ASE 2025 Distinguished Paper Award) Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories** \[[Paper](https://arxiv.org/abs/2506.18824)] [![GitHub Repo stars](https://img.shields.io/github/stars/sola-st/llm-agents-study)](https://github.com/sola-st/llm-agents-study) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-05-05
    \| Studies 120 trajectories and 2,822 LLM interactions, identifying recurring motifs, anti-patterns, token-use patterns, and feedback-integration agentic coding behavior.
    `coding agents` `thought-action-result`
 
@@ -298,13 +298,13 @@ This repository is under active maintenance!
    \| Provides evaluation dimensions and testing infrastructure for multi-agent reliability and observability.
    `multi-agent` `evaluation` `testing infrastructure`
 
-4. **(arXiv 2026) ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents** \[[Paper](https://arxiv.org/abs/2606.21262)] [![GitHub Repo stars](https://img.shields.io/github/stars/zihangtian/ARCO)](https://github.com/zihangtian/ARCO) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-08-24
-   \| Introduces a co-evolution framework that jointly improves an agent and a hierarchical rubric model to provide interpretable step-level process rewards for multi-step trajectories.
-   `general-agent` `rubric-evaluation` `step-level-reward`
-
-5. **(ACL-Findings 2026) ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents** \[[Paper](https://arxiv.org/abs/2601.12294)] [![GitHub Repo stars](https://img.shields.io/github/stars/David-Li0406/ToolPRMBench)](https://github.com/David-Li0406/ToolPRMBench) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+4. **(ACL-Findings 2026) ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents** \[[Paper](https://arxiv.org/abs/2601.12294)] [![GitHub Repo stars](https://img.shields.io/github/stars/David-Li0406/ToolPRMBench)](https://github.com/David-Li0406/ToolPRMBench) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-07-01
    \| Introduces a large-scale benchmark of structured, step-level test cases for evaluating and advancing process reward models in tool-using agent scenarios.
    `tool-agent` `process-reward-model` `benchmark`
+
+5. **(arXiv 2026) ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents** \[[Paper](https://arxiv.org/abs/2606.21262)] [![GitHub Repo stars](https://img.shields.io/github/stars/zihangtian/ARCO)](https://github.com/zihangtian/ARCO) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-08-24
+   \| Introduces a co-evolution framework that jointly improves an agent and a hierarchical rubric model to provide interpretable step-level process rewards for multi-step trajectories.
+   `general-agent` `rubric-evaluation` `step-level-reward`
 
 6. **(arXiv 2026) Agent Step Value: State-Transition Measurement with State-Grounded LLM Evaluators** \[[Paper](https://arxiv.org/abs/2607.04419)] [![GitHub Repo stars](https://img.shields.io/github/stars/andyzpb/asv-eval)](https://github.com/andyzpb/asv-eval) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-05
    \| Measures the value of each agent action by evaluating the change it induces between consecutive environment states with state-grounded LLM evaluators.
@@ -326,7 +326,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 602 | 🐛 22 | 🌐 C | 📅 2026-08-25
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 603 | 🐛 22 | 🌐 C | 📅 2026-08-25
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -334,7 +334,7 @@ This repository is under active maintenance!
    \| Introduces explicit representations of coding-agent states to support stage- and step-level failure tracing.
    `coding-agent` `state-representation`
 
-3. **(arXiv 2026) GRADE: Graph Representation of LLM Agent Dependency and Execution** \[[Paper](https://arxiv.org/abs/2606.22741)] [![GitHub Repo stars](https://img.shields.io/github/stars/yzhao062/grade)](https://github.com/yzhao062/grade) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-07-19
+3. **(arXiv 2026) GRADE: Graph Representation of LLM Agent Dependency and Execution** \[[Paper](https://arxiv.org/abs/2606.22741)] [![GitHub Repo stars](https://img.shields.io/github/stars/yzhao062/grade)](https://github.com/yzhao062/grade) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-19
    \| Models an agent run as a two-layer graph with execution edges and dependency edges graded, to predict failure likelihood and localize the faulting step.
    `general-agent` `graph-representation` `dependency-tracing`
 
@@ -364,7 +364,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 98 | 🐛 6 | 🌐 Python | 📅 2026-08-22]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 99 | 🐛 6 | 🌐 Python | 📅 2026-08-22]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
