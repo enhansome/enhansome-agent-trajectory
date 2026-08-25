@@ -146,21 +146,6 @@
         },
         {
           "node_type": "item",
-          "title": "(arXiv 2026) TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems [Paper",
-          "description": "] | Uses an investigator agent with context-reduction mechanisms to localize the earliest decisive error step in repository-level coding-agent trajectories and generate diagnostic justifications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1249762364,
-            "language": "Python",
-            "last_commit": "2026-07-10T06:19:36Z",
-            "owner": "LogAnalysisTech",
-            "repo": "TrajAudit",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems [Paper",
           "description": "] | Encodes execution logs into temporal semantic sequences with an LLM, then uses lightweight temporal modeling and attention over the sequence to score and localize the root-cause step, cutting inference time by 79% versus the fastest LLM-based baseline.",
           "children": [],
@@ -171,6 +156,21 @@
             "last_commit": "2026-05-28T16:08:27Z",
             "owner": "taiyu-zhu",
             "repo": "StepFinder",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems [Paper",
+          "description": "] | Uses an investigator agent with context-reduction mechanisms to localize the earliest decisive error step in repository-level coding-agent trajectories and generate diagnostic justifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249762364,
+            "language": "Python",
+            "last_commit": "2026-07-10T06:19:36Z",
+            "owner": "LogAnalysisTech",
+            "repo": "TrajAudit",
             "stars": 2
           }
         }
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-24T06:33:01Z",
             "owner": "alphadl",
             "repo": "AdaRubrics",
-            "stars": 354
+            "stars": 355
           }
         },
         {
@@ -336,7 +336,7 @@
             "archived": false,
             "id": 1015665264,
             "language": "C",
-            "last_commit": "2026-08-24T10:48:55Z",
+            "last_commit": "2026-08-25T03:03:00Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
             "stars": 602
@@ -414,7 +414,7 @@
                 "last_commit": "2026-08-22T20:48:02Z",
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 583
+                "stars": 585
               }
             },
             {
@@ -487,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:16:03.486Z",
+    "last_updated": "2026-08-25T06:35:41.172Z",
     "original_repository": "YintongHuo/awesome-agent-trajectory",
     "original_repository_id": 1307432618,
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",

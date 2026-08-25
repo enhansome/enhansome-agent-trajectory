@@ -146,13 +146,13 @@ This repository is under active maintenance!
    \| Uses abductive reasoning, interventions, and predictions to causally attribute multi-agent failures.
    `multi-agent` `causal-inference` `abductive-reasoning`
 
-6. **(arXiv 2026) TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems** \[[Paper](https://arxiv.org/abs/2605.26563)] [![GitHub Repo stars](https://img.shields.io/github/stars/LogAnalysisTech/TrajAudit)](https://github.com/LogAnalysisTech/TrajAudit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-07-10
-   \| Uses an investigator agent with context-reduction mechanisms to localize the earliest decisive error step in repository-level coding-agent trajectories and generate diagnostic justifications.
-   `coding-agent` `long trajectory` `context-folding`
-
-7. **(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems** \[[Paper](https://arxiv.org/abs/2606.03467)] [![GitHub Repo stars](https://img.shields.io/github/stars/taiyu-zhu/StepFinder)](https://github.com/taiyu-zhu/StepFinder) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-05-28
+6. **(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems** \[[Paper](https://arxiv.org/abs/2606.03467)] [![GitHub Repo stars](https://img.shields.io/github/stars/taiyu-zhu/StepFinder)](https://github.com/taiyu-zhu/StepFinder) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-05-28
    \| Encodes execution logs into temporal semantic sequences with an LLM, then uses lightweight temporal modeling and attention over the sequence to score and localize the root-cause step, cutting inference time by 79% versus the fastest LLM-based baseline.
    `multi-agent` `failure-attribution` `temporal-modeling`
+
+7. **(arXiv 2026) TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems** \[[Paper](https://arxiv.org/abs/2605.26563)] [![GitHub Repo stars](https://img.shields.io/github/stars/LogAnalysisTech/TrajAudit)](https://github.com/LogAnalysisTech/TrajAudit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-07-10
+   \| Uses an investigator agent with context-reduction mechanisms to localize the earliest decisive error step in repository-level coding-agent trajectories and generate diagnostic justifications.
+   `coding-agent` `long trajectory` `context-folding`
 
 8. **(EMNLP 2025 System Demonstrations) AgentDiagnose: An Open Toolkit for Diagnosing LLM Agent Trajectories** \[[Paper](https://aclanthology.org/2025.emnlp-demos.15/)]
    \| Provides an open, modular toolkit that scores trajectories on five agentic competencies and visualizes decision-making, going beyond simple execution replay.
@@ -286,7 +286,7 @@ This repository is under active maintenance!
 
 > *Methods that score the quality/rewarding of individual steps or whole trajectories.*
 
-1. **(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning** \[[Paper](https://arxiv.org/abs/2603.21362)] [![GitHub Repo stars](https://img.shields.io/github/stars/alphadl/AdaRubrics)](https://github.com/alphadl/AdaRubrics) ⭐ 354 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+1. **(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning** \[[Paper](https://arxiv.org/abs/2603.21362)] [![GitHub Repo stars](https://img.shields.io/github/stars/alphadl/AdaRubrics)](https://github.com/alphadl/AdaRubrics) ⭐ 355 | 🐛 1 | 🌐 Python | 📅 2026-08-24
    \| Dynamically generates task-specific rubrics to evaluate agent trajectories step by step and produce confidence-weighted preference data for reward learning.
    `general-agent` `rubric-evaluation` `reward-learning`
 
@@ -326,7 +326,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 602 | 🐛 23 | 🌐 C | 📅 2026-08-24
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 602 | 🐛 22 | 🌐 C | 📅 2026-08-25
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -382,7 +382,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 583 | 🐛 59 | 🌐 Python | 📅 2026-08-22] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 585 | 🐛 60 | 🌐 Python | 📅 2026-08-22] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -439,4 +439,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
