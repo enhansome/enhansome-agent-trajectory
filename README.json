@@ -96,7 +96,7 @@
             "last_commit": "2026-06-22T09:29:32Z",
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-25T03:03:00Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 605
+            "stars": 606
           }
         },
         {
@@ -392,7 +392,7 @@
                 "last_commit": "2026-08-22T08:02:11Z",
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 101
+                "stars": 103
               }
             }
           ],
@@ -414,7 +414,7 @@
                 "last_commit": "2026-08-22T20:48:02Z",
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 589
+                "stars": 593
               }
             },
             {
@@ -487,9 +487,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:27:13.637Z",
-    "original_repository": "YintongHuo/awesome-agent-trajectory",
-    "original_repository_id": 1307432618,
+    "last_updated": "2026-08-27T11:18:19.812Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1307432618,
+      "language": null,
+      "last_commit": "2026-08-04T08:34:14Z",
+      "owner": "YintongHuo",
+      "repo": "awesome-agent-trajectory",
+      "stars": 82
+    },
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",
     "enhanced_repository": "enhansome/enhansome-agent-trajectory",
     "enhanced_repository_description": null,
