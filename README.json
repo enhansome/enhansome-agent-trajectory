@@ -108,7 +108,7 @@
             "archived": false,
             "id": 1049730924,
             "language": "HTML",
-            "last_commit": "2025-11-12T16:46:02Z",
+            "last_commit": "2026-08-27T12:56:46Z",
             "owner": "bingreeky",
             "repo": "AgenTracer",
             "stars": 99
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-25T03:03:00Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 606
+            "stars": 608
           }
         },
         {
@@ -414,7 +414,7 @@
                 "last_commit": "2026-08-22T20:48:02Z",
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 593
+                "stars": 597
               }
             },
             {
@@ -487,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:19.812Z",
+    "last_updated": "2026-08-28T01:46:56.595Z",
     "original_repository_info": {
       "archived": false,
       "id": 1307432618,
