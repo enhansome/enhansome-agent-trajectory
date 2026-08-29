@@ -16,7 +16,8 @@
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
             "stars": 410
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "sola-st",
             "repo": "llm-agents-study",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "lurf21",
             "repo": "Agent_Evaluation_Framework",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "xz-Sean",
             "repo": "cli_trajectory_analysis",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         }
       ],
       "title": "Empirical Study/Characterization"
@@ -81,8 +85,9 @@
             "last_commit": "2026-02-11T17:30:51Z",
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 384
-          }
+            "stars": 385
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "microsoft",
             "repo": "AgentRx",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "bingreeky",
             "repo": "AgenTracer",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "TraceElephant",
             "repo": "TraceElephant",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "ResearAI",
             "repo": "A2P",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "taiyu-zhu",
             "repo": "StepFinder",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "LogAnalysisTech",
             "repo": "TrajAudit",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         }
       ],
       "title": "Failure Localization, Attribution, and Diagnosis"
@@ -193,7 +204,8 @@
             "owner": "zz-haooo",
             "repo": "ReCreate",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -207,8 +219,9 @@
             "last_commit": "2026-03-26T03:01:04Z",
             "owner": "JarvisPei",
             "repo": "SCOPE",
-            "stars": 83
-          }
+            "stars": 84
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "Hert4",
             "repo": "trace2skill",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         }
       ],
       "title": "Learning and Optimization from Trajectories"
@@ -244,7 +258,8 @@
             "owner": "alphadl",
             "repo": "AdaRubrics",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "RUCBM",
             "repo": "AgentProcessBench",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,24 @@
             "owner": "sands-lab",
             "repo": "maestro",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents [Paper",
+          "description": "] | Introduces a co-evolution framework that jointly improves an agent and a hierarchical rubric model to provide interpretable step-level process rewards for multi-step trajectories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1272672451,
+            "language": "Python",
+            "last_commit": "2026-08-24T03:54:44Z",
+            "owner": "zihangtian",
+            "repo": "ARCO",
+            "stars": 10
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -289,22 +322,8 @@
             "owner": "David-Li0406",
             "repo": "ToolPRMBench",
             "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2026) ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents [Paper",
-          "description": "] | Introduces a co-evolution framework that jointly improves an agent and a hierarchical rubric model to provide interpretable step-level process rewards for multi-step trajectories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1272672451,
-            "language": "Python",
-            "last_commit": "2026-08-24T03:54:44Z",
-            "owner": "zihangtian",
-            "repo": "ARCO",
-            "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "andyzpb",
             "repo": "asv-eval",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         }
       ],
       "title": "Trajectory Quality Assessment"
@@ -339,8 +359,9 @@
             "last_commit": "2026-08-25T03:03:00Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 608
-          }
+            "stars": 613
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "NJU-LINK",
             "repo": "CodeTracer",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "yzhao062",
             "repo": "grade",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
         }
       ],
       "title": "Trajectory Representation"
@@ -392,8 +415,9 @@
                 "last_commit": "2026-08-22T08:02:11Z",
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 103
-              }
+                "stars": 104
+              },
+              "first_seen": "2026-08-29T01:11:17.548Z"
             }
           ],
           "description": null,
@@ -414,8 +438,9 @@
                 "last_commit": "2026-08-22T20:48:02Z",
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 597
-              }
+                "stars": 602
+              },
+              "first_seen": "2026-08-29T01:11:17.548Z"
             },
             {
               "node_type": "item",
@@ -429,8 +454,9 @@
                 "last_commit": "2026-02-11T17:30:51Z",
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 384
-              }
+                "stars": 385
+              },
+              "first_seen": "2026-08-29T01:11:17.548Z"
             },
             {
               "node_type": "item",
@@ -445,7 +471,8 @@
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T01:11:17.548Z"
             },
             {
               "node_type": "item",
@@ -460,7 +487,8 @@
                 "owner": "kfq20",
                 "repo": "AEGIS",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T01:11:17.548Z"
             },
             {
               "node_type": "item",
@@ -475,7 +503,8 @@
                 "owner": "yeonjun-in",
                 "repo": "MP-Bench",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:11:17.548Z"
             }
           ],
           "description": null,
@@ -487,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:46:56.595Z",
+    "last_updated": "2026-08-29T01:11:17.548Z",
     "original_repository_info": {
       "archived": false,
       "id": 1307432618,
