@@ -286,7 +286,7 @@ This repository is under active maintenance!
 
 > *Methods that score the quality/rewarding of individual steps or whole trajectories.*
 
-1. **(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning** \[[Paper](https://arxiv.org/abs/2603.21362)] [![GitHub Repo stars](https://img.shields.io/github/stars/alphadl/AdaRubrics)](https://github.com/alphadl/AdaRubrics) ⭐ 356 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+1. **(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning** \[[Paper](https://arxiv.org/abs/2603.21362)] [![GitHub Repo stars](https://img.shields.io/github/stars/alphadl/AdaRubrics)](https://github.com/alphadl/AdaRubrics) ⭐ 357 | 🐛 1 | 🌐 Python | 📅 2026-08-24
    \| Dynamically generates task-specific rubrics to evaluate agent trajectories step by step and produce confidence-weighted preference data for reward learning.
    `general-agent` `rubric-evaluation` `reward-learning`
 
@@ -382,7 +382,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 602 | 🐛 60 | 🌐 Python | 📅 2026-08-22] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 603 | 🐛 60 | 🌐 Python | 📅 2026-08-22] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 

@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 946468322,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-23T07:37:41Z",
+            "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 410
+            "stars": 410,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and data for study: \"Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories\"",
+            "homepage": null,
             "id": 1068411756,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-05T15:30:00Z",
+            "open_issues": 1,
             "owner": "sola-st",
             "repo": "llm-agents-study",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ASE'25 NIER] Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks",
+            "homepage": "https://arxiv.org/abs/2508.13143",
             "id": 1018828184,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-15T01:52:27Z",
+            "open_issues": 0,
             "owner": "lurf21",
             "repo": "Agent_Evaluation_Framework",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1295476334,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-09T15:32:04Z",
+            "open_issues": 1,
             "owner": "xz-Sean",
             "repo": "cli_trajectory_analysis",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         }
@@ -80,12 +100,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmark for automated failure attributions in agentic systems (🏆 ICML 2025 Spotlight)",
+            "homepage": "https://ag2ai.github.io/Agents_Failure_Attribution/",
             "id": 975012144,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-11T17:30:51Z",
+            "open_issues": 4,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 385
+            "stars": 385,
+            "topics": [
+              "agent",
+              "autogen",
+              "llm",
+              "multi-agent",
+              "multiagent-systems"
+            ]
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -96,12 +127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1179342776,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-22T09:29:32Z",
+            "open_issues": 17,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -112,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AgenTracer: A Lightweight Failure Attributor for Agentic Systems",
+            "homepage": "https://arxiv.org/abs/2509.03312",
             "id": 1049730924,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-27T12:56:46Z",
+            "open_issues": 0,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -128,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo of \"Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems\" (ACL 2026)",
+            "homepage": null,
             "id": 1128792641,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-04-27T02:40:42Z",
+            "open_issues": 0,
             "owner": "TraceElephant",
             "repo": "TraceElephant",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -144,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1055660983,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-12T19:03:24Z",
+            "open_issues": 0,
             "owner": "ResearAI",
             "repo": "A2P",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -160,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StepFinder is a lightweight framework for step-level failure attribution in LLM-based multi-agent systems (MAS). It encodes execution logs into temporal semantic sequences and applies a parameter-efficient combination of temporal modeling and attention modules to identify the root cause step.",
+            "homepage": null,
             "id": 1247586045,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-28T16:08:27Z",
+            "open_issues": 2,
             "owner": "taiyu-zhu",
             "repo": "StepFinder",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -176,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TrajAudit: Agent System Log Normalization",
+            "homepage": null,
             "id": 1249762364,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-10T06:19:36Z",
+            "open_issues": 0,
             "owner": "LogAnalysisTech",
             "repo": "TrajAudit",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         }
@@ -198,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of ACL main 2026 paper \"ReCreate: Reasoning and Creating Domain Agents Driven by Experience\"",
+            "homepage": null,
             "id": 1134804500,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-29T17:08:41Z",
+            "open_issues": 0,
             "owner": "zz-haooo",
             "repo": "ReCreate",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -214,12 +280,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SCOPE: Self-evolving Context Optimization via Prompt Evolution - A framework for automatic prompt optimization",
+            "homepage": null,
             "id": 1118604276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-26T03:01:04Z",
+            "open_issues": 2,
             "owner": "JarvisPei",
             "repo": "SCOPE",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "agents",
+              "llm",
+              "machine-learning",
+              "nlp",
+              "prompt-engineering",
+              "prompt-optimization"
+            ]
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -230,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Harness-agnostic framework for evolving agent skills from real trajectories. Implementation of Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills ([arXiv:2603.25158](https://arxiv.org/abs/2603.25158)).",
+            "homepage": null,
             "id": 1217971766,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-04T10:00:07Z",
+            "open_issues": 0,
             "owner": "Hert4",
             "repo": "trace2skill",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         }
@@ -252,12 +335,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AdaRubric: Adaptive Dynamic Rubric Evaluator for Agent Trajectories",
+            "homepage": null,
             "id": 1164205568,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T06:33:01Z",
+            "open_issues": 1,
             "owner": "alphadl",
             "repo": "AdaRubrics",
-            "stars": 356
+            "stars": 357,
+            "topics": [
+              "agent-evaluation",
+              "llm-evaluation",
+              "reward-model",
+              "rlhf",
+              "rubric"
+            ]
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -268,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1182488086,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-17T08:02:49Z",
+            "open_issues": 0,
             "owner": "RUCBM",
             "repo": "AgentProcessBench",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -284,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1112096128,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-26T05:28:52Z",
+            "open_issues": 4,
             "owner": "sands-lab",
             "repo": "maestro",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -300,12 +404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source codes for the ARCO paper.",
+            "homepage": null,
             "id": 1272672451,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T03:54:44Z",
+            "open_issues": 2,
             "owner": "zihangtian",
             "repo": "ARCO",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -316,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github repository for paper: \"ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents\"",
+            "homepage": null,
             "id": 1136507668,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-01T00:06:17Z",
+            "open_issues": 1,
             "owner": "David-Li0406",
             "repo": "ToolPRMBench",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -332,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1290128962,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-05T16:15:25Z",
+            "open_issues": 0,
             "owner": "andyzpb",
             "repo": "asv-eval",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         }
@@ -354,12 +473,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lightweight system-level observability for AI Agents",
+            "homepage": "https://eunomia.dev/agentsight/",
             "id": 1015665264,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-25T03:03:00Z",
+            "open_issues": 22,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 613
+            "stars": 613,
+            "topics": [
+              "agent",
+              "ebpf",
+              "llm",
+              "observability"
+            ]
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -370,12 +499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207101323,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-19T12:04:16Z",
+            "open_issues": 7,
             "owner": "NJU-LINK",
             "repo": "CodeTracer",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         },
@@ -386,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Two-layer graph representation of LLM-agent runs (execution and dependency)",
+            "homepage": null,
             "id": 1276348885,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-19T11:35:08Z",
+            "open_issues": 0,
             "owner": "yzhao062",
             "repo": "grade",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
         }
@@ -410,12 +549,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open toolkit and public dataset hub for collecting, sanitizing, analyzing, and visualizing coding agent traces.",
+                "homepage": "https://tracelab.cs.washington.edu/",
                 "id": 1268228289,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-22T08:02:11Z",
+                "open_issues": 6,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "coding-agent",
+                  "serving-infrastructure",
+                  "trace"
+                ]
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
             }
@@ -433,12 +581,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source benchmark for browser AI agents on daily tasks.",
+                "homepage": "https://claw-bench.com",
                 "id": 1206519531,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-22T20:48:02Z",
+                "open_issues": 60,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 602
+                "stars": 603,
+                "topics": [
+                  "agent-evaluation",
+                  "agentic-ai",
+                  "ai-agent-benchmark",
+                  "ai-agents",
+                  "benchmark",
+                  "browser-agent",
+                  "browser-automation",
+                  "browser-use",
+                  "chrome-agent",
+                  "chrome-extension",
+                  "computer-use",
+                  "dataset",
+                  "evaluation",
+                  "everyday-tasks",
+                  "llm",
+                  "llm-evaluation",
+                  "online-tasks",
+                  "real-world-benchmark",
+                  "web-agent",
+                  "web-agents"
+                ]
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
             },
@@ -449,12 +623,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmark for automated failure attributions in agentic systems (🏆 ICML 2025 Spotlight)",
+                "homepage": "https://ag2ai.github.io/Agents_Failure_Attribution/",
                 "id": 975012144,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-11T17:30:51Z",
+                "open_issues": 4,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 385
+                "stars": 385,
+                "topics": [
+                  "agent",
+                  "autogen",
+                  "llm",
+                  "multi-agent",
+                  "multiagent-systems"
+                ]
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
             },
@@ -465,12 +650,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1064899737,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-30T03:31:41Z",
+                "open_issues": 4,
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
             },
@@ -481,12 +671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AEGIS: Automated Error Generation and Attribution for Multi-Agent Systems",
+                "homepage": null,
                 "id": 1057931536,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T05:11:58Z",
+                "open_issues": 2,
                 "owner": "kfq20",
                 "repo": "AEGIS",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
             },
@@ -497,12 +692,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1152721290,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-16T08:49:28Z",
+                "open_issues": 0,
                 "owner": "yeonjun-in",
                 "repo": "MP-Bench",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
             }
@@ -516,15 +716,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:11:17.548Z",
+    "last_updated": "2026-08-29T05:01:52.787Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of agent trajectory analysis techniques and benchmark",
+      "homepage": null,
       "id": 1307432618,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-04T08:34:14Z",
+      "open_issues": 0,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 82
+      "stars": 82,
+      "topics": [
+        "agent-trajectory",
+        "agentic-ai",
+        "ai-agents",
+        "awesome-list",
+        "llm-agents",
+        "trajectory-analysis"
+      ]
     },
     "original_repository_sha": "f38243f0689bbac5e1178a82d7bae28a7875ec25",
     "enhanced_repository": "enhansome/enhansome-agent-trajectory",
