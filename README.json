@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 410,
+            "stars": 411,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -178,7 +178,7 @@
             "open_issues": 0,
             "owner": "TraceElephant",
             "repo": "TraceElephant",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -590,7 +590,7 @@
                 "open_issues": 60,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 604,
+                "stars": 609,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:59:37.853Z",
+    "last_updated": "2026-08-30T20:04:58.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
