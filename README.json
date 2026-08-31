@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 411,
+            "stars": 413,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "sola-st",
             "repo": "llm-agents-study",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -136,7 +136,7 @@
             "open_issues": 17,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 141,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -478,8 +478,8 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-08-25T03:03:00Z",
-            "open_issues": 23,
+            "last_commit": "2026-08-31T20:40:32Z",
+            "open_issues": 25,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
             "stars": 613,
@@ -508,7 +508,7 @@
             "open_issues": 7,
             "owner": "NJU-LINK",
             "repo": "CodeTracer",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -558,7 +558,7 @@
                 "open_issues": 6,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 104,
+                "stars": 105,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -586,11 +586,11 @@
                 "id": 1206519531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-22T20:48:02Z",
-                "open_issues": 60,
+                "last_commit": "2026-08-31T21:03:20Z",
+                "open_issues": 54,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 609,
+                "stars": 614,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -659,7 +659,7 @@
                 "open_issues": 4,
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
-                "stars": 101,
+                "stars": 103,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T20:04:58.842Z",
+    "last_updated": "2026-08-31T22:03:52.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
