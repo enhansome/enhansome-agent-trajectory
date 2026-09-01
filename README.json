@@ -136,7 +136,7 @@
             "open_issues": 17,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -399,27 +399,6 @@
         },
         {
           "node_type": "item",
-          "title": "(arXiv 2026) ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents [Paper",
-          "description": "] | Introduces a co-evolution framework that jointly improves an agent and a hierarchical rubric model to provide interpretable step-level process rewards for multi-step trajectories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Source codes for the ARCO paper.",
-            "homepage": null,
-            "id": 1272672451,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-08-24T03:54:44Z",
-            "open_issues": 2,
-            "owner": "zihangtian",
-            "repo": "ARCO",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:11:17.548Z"
-        },
-        {
-          "node_type": "item",
           "title": "(ACL-Findings 2026) ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents [Paper",
           "description": "] | Introduces a large-scale benchmark of structured, step-level test cases for evaluating and advancing process reward models in tool-using agent scenarios.",
           "children": [],
@@ -435,6 +414,27 @@
             "owner": "David-Li0406",
             "repo": "ToolPRMBench",
             "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents [Paper",
+          "description": "] | Introduces a co-evolution framework that jointly improves an agent and a hierarchical rubric model to provide interpretable step-level process rewards for multi-step trajectories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Source codes for the ARCO paper.",
+            "homepage": null,
+            "id": 1272672451,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-08-24T03:54:44Z",
+            "open_issues": 2,
+            "owner": "zihangtian",
+            "repo": "ARCO",
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -482,7 +482,7 @@
             "open_issues": 25,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 613,
+            "stars": 648,
             "topics": [
               "agent",
               "ebpf",
@@ -558,7 +558,7 @@
                 "open_issues": 6,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -586,11 +586,11 @@
                 "id": 1206519531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T21:03:20Z",
+                "last_commit": "2026-09-01T15:26:20Z",
                 "open_issues": 54,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 614,
+                "stars": 629,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -680,7 +680,7 @@
                 "open_issues": 2,
                 "owner": "kfq20",
                 "repo": "AEGIS",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:03:52.824Z",
+    "last_updated": "2026-09-01T20:09:45.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -728,7 +728,7 @@
       "open_issues": 0,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 82,
+      "stars": 83,
       "topics": [
         "agent-trajectory",
         "agentic-ai",

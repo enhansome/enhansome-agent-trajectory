@@ -130,7 +130,7 @@ This repository is under active maintenance!
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
-2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 143 | 🐛 17 | 🌐 Python | 📅 2026-06-22
+2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 144 | 🐛 17 | 🌐 Python | 📅 2026-06-22
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
@@ -298,13 +298,13 @@ This repository is under active maintenance!
    \| Provides evaluation dimensions and testing infrastructure for multi-agent reliability and observability.
    `multi-agent` `evaluation` `testing infrastructure`
 
-4. **(arXiv 2026) ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents** \[[Paper](https://arxiv.org/abs/2606.21262)] [![GitHub Repo stars](https://img.shields.io/github/stars/zihangtian/ARCO)](https://github.com/zihangtian/ARCO) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-08-24
-   \| Introduces a co-evolution framework that jointly improves an agent and a hierarchical rubric model to provide interpretable step-level process rewards for multi-step trajectories.
-   `general-agent` `rubric-evaluation` `step-level-reward`
-
-5. **(ACL-Findings 2026) ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents** \[[Paper](https://arxiv.org/abs/2601.12294)] [![GitHub Repo stars](https://img.shields.io/github/stars/David-Li0406/ToolPRMBench)](https://github.com/David-Li0406/ToolPRMBench) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+4. **(ACL-Findings 2026) ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents** \[[Paper](https://arxiv.org/abs/2601.12294)] [![GitHub Repo stars](https://img.shields.io/github/stars/David-Li0406/ToolPRMBench)](https://github.com/David-Li0406/ToolPRMBench) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-07-01
    \| Introduces a large-scale benchmark of structured, step-level test cases for evaluating and advancing process reward models in tool-using agent scenarios.
    `tool-agent` `process-reward-model` `benchmark`
+
+5. **(arXiv 2026) ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents** \[[Paper](https://arxiv.org/abs/2606.21262)] [![GitHub Repo stars](https://img.shields.io/github/stars/zihangtian/ARCO)](https://github.com/zihangtian/ARCO) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-08-24
+   \| Introduces a co-evolution framework that jointly improves an agent and a hierarchical rubric model to provide interpretable step-level process rewards for multi-step trajectories.
+   `general-agent` `rubric-evaluation` `step-level-reward`
 
 6. **(arXiv 2026) Agent Step Value: State-Transition Measurement with State-Grounded LLM Evaluators** \[[Paper](https://arxiv.org/abs/2607.04419)] [![GitHub Repo stars](https://img.shields.io/github/stars/andyzpb/asv-eval)](https://github.com/andyzpb/asv-eval) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-05
    \| Measures the value of each agent action by evaluating the change it induces between consecutive environment states with state-grounded LLM evaluators.
@@ -326,7 +326,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 613 | 🐛 25 | 🌐 C | 📅 2026-08-31
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 648 | 🐛 25 | 🌐 C | 📅 2026-08-31
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -364,7 +364,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 105 | 🐛 6 | 🌐 Python | 📅 2026-08-22]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 106 | 🐛 6 | 🌐 Python | 📅 2026-08-22]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -382,7 +382,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 614 | 🐛 54 | 🌐 Python | 📅 2026-08-31] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 629 | 🐛 54 | 🌐 Python | 📅 2026-09-01] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -394,7 +394,7 @@ This repository is under active maintenance!
    \| 200 multi-agent/embodied executions (ALFWorld, GAIA, WebShop) annotated under the AgentErrorTaxonomy for failure analysis and attribution.
    `multi-agent` `failure-attribution` `benchmark`
 
-4. **Aegis** \[[Paper](https://arxiv.org/abs/2509.14295)] [![GitHub Repo stars](https://img.shields.io/github/stars/kfq20/AEGIS)](https://github.com/kfq20/AEGIS) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2026-08-17
+4. **Aegis** \[[Paper](https://arxiv.org/abs/2509.14295)] [![GitHub Repo stars](https://img.shields.io/github/stars/kfq20/AEGIS)](https://github.com/kfq20/AEGIS) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-08-17
    \| 9,533 trajectories across diverse MAS architectures and task domains, automatically labeled with faulty agents and error modes via an LLM-based error injector, supporting SFT, RL, and contrastive-learning training paradigms.
    `multi-agent` `failure-attribution` `automated-annotation`
 
@@ -439,4 +439,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
