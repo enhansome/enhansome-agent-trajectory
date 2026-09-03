@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 415,
+            "stars": 414,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -136,7 +136,7 @@
             "open_issues": 17,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 144,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -220,7 +220,7 @@
             "open_issues": 2,
             "owner": "taiyu-zhu",
             "repo": "StepFinder",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -344,7 +344,7 @@
             "open_issues": 1,
             "owner": "alphadl",
             "repo": "AdaRubrics",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "agent-evaluation",
               "llm-evaluation",
@@ -479,10 +479,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-08-31T20:40:32Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 658,
+            "stars": 663,
             "topics": [
               "agent",
               "ebpf",
@@ -558,7 +558,7 @@
                 "open_issues": 6,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -590,7 +590,7 @@
                 "open_issues": 59,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 632,
+                "stars": 639,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T20:07:25.439Z",
+    "last_updated": "2026-09-03T20:08:18.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
