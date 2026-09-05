@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "sola-st",
             "repo": "llm-agents-study",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -157,7 +157,7 @@
             "open_issues": 0,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 99,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -478,11 +478,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-04T04:02:59Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-05T16:03:58Z",
+            "open_issues": 27,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 665,
+            "stars": 671,
             "topics": [
               "agent",
               "ebpf",
@@ -558,7 +558,7 @@
                 "open_issues": 6,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 110,
+                "stars": 112,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -586,11 +586,11 @@
                 "id": 1206519531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T15:26:20Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-05T01:02:48Z",
+                "open_issues": 52,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 645,
+                "stars": 650,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:54:32.329Z",
+    "last_updated": "2026-09-05T19:34:41.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",

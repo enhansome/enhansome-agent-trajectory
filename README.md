@@ -82,7 +82,7 @@ This repository is under active maintenance!
    \| Analyzes recurring failure modes in multi-agent systems and develops a taxonomy spanning agent design, coordination, and verification.
    `multi-agent` `failure-taxonomy`
 
-2. **(ASE 2025 Distinguished Paper Award) Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories** \[[Paper](https://arxiv.org/abs/2506.18824)] [![GitHub Repo stars](https://img.shields.io/github/stars/sola-st/llm-agents-study)](https://github.com/sola-st/llm-agents-study) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-05-05
+2. **(ASE 2025 Distinguished Paper Award) Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories** \[[Paper](https://arxiv.org/abs/2506.18824)] [![GitHub Repo stars](https://img.shields.io/github/stars/sola-st/llm-agents-study)](https://github.com/sola-st/llm-agents-study) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-05-05
    \| Studies 120 trajectories and 2,822 LLM interactions, identifying recurring motifs, anti-patterns, token-use patterns, and feedback-integration agentic coding behavior.
    `coding agents` `thought-action-result`
 
@@ -134,7 +134,7 @@ This repository is under active maintenance!
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
-3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 99 | 🐛 0 | 🌐 HTML | 📅 2026-08-27
+3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 101 | 🐛 0 | 🌐 HTML | 📅 2026-08-27
    \| Trains an AgenTracer-8B via counterfactual replay and programmed fault injection to attribute failures to responsible agents or trajectory segments.
    `multi-agent-system` `automated labeling pipeline` `reinforcement-learning`
 
@@ -326,7 +326,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 665 | 🐛 28 | 🌐 C | 📅 2026-09-04
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 671 | 🐛 27 | 🌐 C | 📅 2026-09-05
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -364,7 +364,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 110 | 🐛 6 | 🌐 Python | 📅 2026-08-22]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 112 | 🐛 6 | 🌐 Python | 📅 2026-08-22]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -382,7 +382,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 645 | 🐛 59 | 🌐 Python | 📅 2026-09-01] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 650 | 🐛 52 | 🌐 Python | 📅 2026-09-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -439,4 +439,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
