@@ -109,7 +109,7 @@
             "open_issues": 4,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 385,
+            "stars": 386,
             "topics": [
               "agent",
               "autogen",
@@ -378,6 +378,27 @@
         },
         {
           "node_type": "item",
+          "title": "(ACL-Findings 2026) ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents [Paper",
+          "description": "] | Introduces a large-scale benchmark of structured, step-level test cases for evaluating and advancing process reward models in tool-using agent scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Github repository for paper: \"ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents\"",
+            "homepage": null,
+            "id": 1136507668,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-07-01T00:06:17Z",
+            "open_issues": 1,
+            "owner": "David-Li0406",
+            "repo": "ToolPRMBench",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
+        },
+        {
+          "node_type": "item",
           "title": "(arXiv 2026) MAESTRO: Multi-Agent Evaluation Suite for Testing, Reliability, and Observability [Paper",
           "description": "] | Provides evaluation dimensions and testing infrastructure for multi-agent reliability and observability.",
           "children": [],
@@ -399,27 +420,6 @@
         },
         {
           "node_type": "item",
-          "title": "(ACL-Findings 2026) ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents [Paper",
-          "description": "] | Introduces a large-scale benchmark of structured, step-level test cases for evaluating and advancing process reward models in tool-using agent scenarios.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Github repository for paper: \"ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents\"",
-            "homepage": null,
-            "id": 1136507668,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-07-01T00:06:17Z",
-            "open_issues": 1,
-            "owner": "David-Li0406",
-            "repo": "ToolPRMBench",
-            "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:11:17.548Z"
-        },
-        {
-          "node_type": "item",
           "title": "(arXiv 2026) ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents [Paper",
           "description": "] | Introduces a co-evolution framework that jointly improves an agent and a hierarchical rubric model to provide interpretable step-level process rewards for multi-step trajectories.",
           "children": [],
@@ -434,7 +434,7 @@
             "open_issues": 2,
             "owner": "zihangtian",
             "repo": "ARCO",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -478,11 +478,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-05T16:03:58Z",
+            "last_commit": "2026-09-07T12:27:40Z",
             "open_issues": 27,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 674,
+            "stars": 676,
             "topics": [
               "agent",
               "ebpf",
@@ -525,7 +525,7 @@
             "id": 1276348885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-19T11:35:08Z",
+            "last_commit": "2026-09-07T05:57:21Z",
             "open_issues": 0,
             "owner": "yzhao062",
             "repo": "grade",
@@ -590,7 +590,7 @@
                 "open_issues": 52,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 663,
+                "stars": 669,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 385,
+                "stars": 386,
                 "topics": [
                   "agent",
                   "autogen",
@@ -659,7 +659,7 @@
                 "open_issues": 4,
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:34:28.348Z",
+    "last_updated": "2026-09-07T20:47:27.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -728,7 +728,7 @@
       "open_issues": 0,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 83,
+      "stars": 84,
       "topics": [
         "agent-trajectory",
         "agentic-ai",
