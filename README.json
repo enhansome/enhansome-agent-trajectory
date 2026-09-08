@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -136,7 +136,7 @@
             "open_issues": 17,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 146,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -157,7 +157,7 @@
             "open_issues": 0,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -268,7 +268,7 @@
             "open_issues": 0,
             "owner": "zz-haooo",
             "repo": "ReCreate",
-            "stars": 166,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -289,7 +289,7 @@
             "open_issues": 2,
             "owner": "JarvisPei",
             "repo": "SCOPE",
-            "stars": 84,
+            "stars": 83,
             "topics": [
               "agents",
               "llm",
@@ -525,7 +525,7 @@
             "id": 1276348885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T05:57:21Z",
+            "last_commit": "2026-09-08T05:17:15Z",
             "open_issues": 0,
             "owner": "yzhao062",
             "repo": "grade",
@@ -586,11 +586,11 @@
                 "id": 1206519531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T01:02:48Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-08T18:24:18Z",
+                "open_issues": 23,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 669,
+                "stars": 684,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:47:27.009Z",
+    "last_updated": "2026-09-08T20:19:27.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",

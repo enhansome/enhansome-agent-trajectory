@@ -78,7 +78,7 @@ This repository is under active maintenance!
 
 > *Empirical research that describes how agents behave and identifies recurring trajectory structures, strategies, and failure patterns.*
 
-1. **(NeurIPS Dataset\&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail?** \[[Paper](https://arxiv.org/pdf/2503.13657)] [![GitHub Repo stars](https://img.shields.io/github/stars/multi-agent-systems-failure-taxonomy/MAST)](https://github.com/multi-agent-systems-failure-taxonomy/MAST) ⭐ 415 | 🐛 14 | 🌐 Python | 📅 2025-07-23
+1. **(NeurIPS Dataset\&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail?** \[[Paper](https://arxiv.org/pdf/2503.13657)] [![GitHub Repo stars](https://img.shields.io/github/stars/multi-agent-systems-failure-taxonomy/MAST)](https://github.com/multi-agent-systems-failure-taxonomy/MAST) ⭐ 416 | 🐛 14 | 🌐 Python | 📅 2025-07-23
    \| Analyzes recurring failure modes in multi-agent systems and develops a taxonomy spanning agent design, coordination, and verification.
    `multi-agent` `failure-taxonomy`
 
@@ -130,11 +130,11 @@ This repository is under active maintenance!
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
-2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 146 | 🐛 17 | 🌐 Python | 📅 2026-06-22
+2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 147 | 🐛 17 | 🌐 Python | 📅 2026-06-22
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
-3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 101 | 🐛 0 | 🌐 HTML | 📅 2026-08-27
+3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 102 | 🐛 0 | 🌐 HTML | 📅 2026-08-27
    \| Trains an AgenTracer-8B via counterfactual replay and programmed fault injection to attribute failures to responsible agents or trajectory segments.
    `multi-agent-system` `automated labeling pipeline` `reinforcement-learning`
 
@@ -230,11 +230,11 @@ This repository is under active maintenance!
 
 > *Methods that use historical trajectories to improve subsequent agent executions.*
 
-1. **(ACL 2026) ReCreate: Reasoning and Creating Domain Agents Driven by Experience** \[[Paper](https://arxiv.org/abs/2601.11100)] [![GitHub Repo stars](https://img.shields.io/github/stars/zz-haooo/ReCreate)](https://github.com/zz-haooo/ReCreate) ⭐ 166 | 🐛 0 | 🌐 Python | 📅 2026-04-29
+1. **(ACL 2026) ReCreate: Reasoning and Creating Domain Agents Driven by Experience** \[[Paper](https://arxiv.org/abs/2601.11100)] [![GitHub Repo stars](https://img.shields.io/github/stars/zz-haooo/ReCreate)](https://github.com/zz-haooo/ReCreate) ⭐ 167 | 🐛 0 | 🌐 Python | 📅 2026-04-29
    \| Uses accumulated execution experience to construct and refine domain-specific agents.
    `general-agent` `experience-learning` `agent-construction`
 
-2. **(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness** \[[Paper](https://arxiv.org/abs/2512.15374)] [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisPei/SCOPE)](https://github.com/JarvisPei/SCOPE) ⭐ 84 | 🐛 2 | 🌐 Python | 📅 2026-03-26
+2. **(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness** \[[Paper](https://arxiv.org/abs/2512.15374)] [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisPei/SCOPE)](https://github.com/JarvisPei/SCOPE) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2026-03-26
    \| Uses trajectory feedback to evolve prompts and improve future agent performance.
    `general-agent` `prompt-optimization` `self-evolution`
 
@@ -334,7 +334,7 @@ This repository is under active maintenance!
    \| Introduces explicit representations of coding-agent states to support stage- and step-level failure tracing.
    `coding-agent` `state-representation`
 
-3. **(arXiv 2026) GRADE: Graph Representation of LLM Agent Dependency and Execution** \[[Paper](https://arxiv.org/abs/2606.22741)] [![GitHub Repo stars](https://img.shields.io/github/stars/yzhao062/grade)](https://github.com/yzhao062/grade) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-09-07
+3. **(arXiv 2026) GRADE: Graph Representation of LLM Agent Dependency and Execution** \[[Paper](https://arxiv.org/abs/2606.22741)] [![GitHub Repo stars](https://img.shields.io/github/stars/yzhao062/grade)](https://github.com/yzhao062/grade) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-09-08
    \| Models an agent run as a two-layer graph with execution edges and dependency edges graded, to predict failure likelihood and localize the faulting step.
    `general-agent` `graph-representation` `dependency-tracing`
 
@@ -382,7 +382,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 669 | 🐛 52 | 🌐 Python | 📅 2026-09-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 684 | 🐛 23 | 🌐 Python | 📅 2026-09-08] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -439,4 +439,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
