@@ -47,27 +47,6 @@
         },
         {
           "node_type": "item",
-          "title": "(ASE-NIER 2025) Exploring autonomous agents: A closer look at why they fail when completing tasks [Paper",
-          "description": "] | Develops a three-tier taxonomy that characterizes autonomous-agent failures across task-planning, task-execution, and response-generation phases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ASE'25 NIER] Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks",
-            "homepage": "https://arxiv.org/abs/2508.13143",
-            "id": 1018828184,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-09-15T01:52:27Z",
-            "open_issues": 0,
-            "owner": "lurf21",
-            "repo": "Agent_Evaluation_Framework",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:11:17.548Z"
-        },
-        {
-          "node_type": "item",
           "title": "(arXiv 2026) Failure as a Process: An Anatomy of CLI Coding Agent Trajectories [Paper",
           "description": "] | Studies failure as a developing process across CLI-agent trajectories.",
           "children": [],
@@ -82,6 +61,27 @@
             "open_issues": 1,
             "owner": "xz-Sean",
             "repo": "cli_trajectory_analysis",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(ASE-NIER 2025) Exploring autonomous agents: A closer look at why they fail when completing tasks [Paper",
+          "description": "] | Develops a three-tier taxonomy that characterizes autonomous-agent failures across task-planning, task-execution, and response-generation phases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ASE'25 NIER] Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks",
+            "homepage": "https://arxiv.org/abs/2508.13143",
+            "id": 1018828184,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-09-15T01:52:27Z",
+            "open_issues": 0,
+            "owner": "lurf21",
+            "repo": "Agent_Evaluation_Framework",
             "stars": 7,
             "topics": []
           },
@@ -109,7 +109,7 @@
             "open_issues": 4,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "agent",
               "autogen",
@@ -136,7 +136,7 @@
             "open_issues": 17,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 147,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -482,7 +482,7 @@
             "open_issues": 27,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 676,
+            "stars": 678,
             "topics": [
               "agent",
               "ebpf",
@@ -587,10 +587,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T18:24:18Z",
-                "open_issues": 23,
+                "open_issues": 27,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 684,
+                "stars": 696,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 386,
+                "stars": 387,
                 "topics": [
                   "agent",
                   "autogen",
@@ -659,7 +659,7 @@
                 "open_issues": 4,
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T20:19:27.876Z",
+    "last_updated": "2026-09-09T20:02:26.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
