@@ -130,7 +130,7 @@ This repository is under active maintenance!
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
-2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 148 | 🐛 17 | 🌐 Python | 📅 2026-06-22
+2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 149 | 🐛 17 | 🌐 Python | 📅 2026-06-22
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
@@ -138,7 +138,7 @@ This repository is under active maintenance!
    \| Trains an AgenTracer-8B via counterfactual replay and programmed fault injection to attribute failures to responsible agents or trajectory segments.
    `multi-agent-system` `automated labeling pipeline` `reinforcement-learning`
 
-4. **(ACL 2026) Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems** \[[Paper](https://aclanthology.org/2026.acl-long.912/)] [![GitHub Repo stars](https://img.shields.io/github/stars/TraceElephant/TraceElephant)](https://github.com/TraceElephant/TraceElephant) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-04-27
+4. **(ACL 2026) Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems** \[[Paper](https://aclanthology.org/2026.acl-long.912/)] [![GitHub Repo stars](https://img.shields.io/github/stars/TraceElephant/TraceElephant)](https://github.com/TraceElephant/TraceElephant) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-04-27
    \| Introduces TraceElephant, a benchmark and evaluation framework that captures complete multi-agent execution traces for assessing failure attribution across agents, interactions, and time steps.
    `multi-agent` `benchmarking`
 
@@ -146,7 +146,7 @@ This repository is under active maintenance!
    \| Uses abductive reasoning, interventions, and predictions to causally attribute multi-agent failures.
    `multi-agent` `causal-inference` `abductive-reasoning`
 
-6. **(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems** \[[Paper](https://arxiv.org/abs/2606.03467)] [![GitHub Repo stars](https://img.shields.io/github/stars/taiyu-zhu/StepFinder)](https://github.com/taiyu-zhu/StepFinder) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-05-28
+6. **(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems** \[[Paper](https://arxiv.org/abs/2606.03467)] [![GitHub Repo stars](https://img.shields.io/github/stars/taiyu-zhu/StepFinder)](https://github.com/taiyu-zhu/StepFinder) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2026-05-28
    \| Encodes execution logs into temporal semantic sequences with an LLM, then uses lightweight temporal modeling and attention over the sequence to score and localize the root-cause step, cutting inference time by 79% versus the fastest LLM-based baseline.
    `multi-agent` `failure-attribution` `temporal-modeling`
 
@@ -326,7 +326,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 685 | 🐛 27 | 🌐 C | 📅 2026-09-07
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 685 | 🐛 27 | 🌐 C | 📅 2026-09-12
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -364,7 +364,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 117 | 🐛 6 | 🌐 Python | 📅 2026-08-22]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 121 | 🐛 6 | 🌐 Python | 📅 2026-08-22]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -382,7 +382,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 713 | 🐛 32 | 🌐 Python | 📅 2026-09-10] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 723 | 🐛 31 | 🌐 Python | 📅 2026-09-10] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -439,4 +439,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
