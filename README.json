@@ -178,7 +178,28 @@
             "open_issues": 0,
             "owner": "TraceElephant",
             "repo": "TraceElephant",
-            "stars": 24,
+            "stars": 28,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:11:17.548Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems [Paper",
+          "description": "] | Encodes execution logs into temporal semantic sequences with an LLM, then uses lightweight temporal modeling and attention over the sequence to score and localize the root-cause step, cutting inference time by 79% versus the fastest LLM-based baseline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "StepFinder is a lightweight framework for step-level failure attribution in LLM-based multi-agent systems (MAS). It encodes execution logs into temporal semantic sequences and applies a parameter-efficient combination of temporal modeling and attention modules to identify the root cause step.",
+            "homepage": null,
+            "id": 1247586045,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-14T12:48:56Z",
+            "open_issues": 2,
+            "owner": "taiyu-zhu",
+            "repo": "StepFinder",
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -199,27 +220,6 @@
             "open_issues": 0,
             "owner": "ResearAI",
             "repo": "A2P",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:11:17.548Z"
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems [Paper",
-          "description": "] | Encodes execution logs into temporal semantic sequences with an LLM, then uses lightweight temporal modeling and attention over the sequence to score and localize the root-cause step, cutting inference time by 79% versus the fastest LLM-based baseline.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "StepFinder is a lightweight framework for step-level failure attribution in LLM-based multi-agent systems (MAS). It encodes execution logs into temporal semantic sequences and applies a parameter-efficient combination of temporal modeling and attention modules to identify the root cause step.",
-            "homepage": null,
-            "id": 1247586045,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-05-28T16:08:27Z",
-            "open_issues": 3,
-            "owner": "taiyu-zhu",
-            "repo": "StepFinder",
             "stars": 4,
             "topics": []
           },
@@ -344,7 +344,7 @@
             "open_issues": 1,
             "owner": "alphadl",
             "repo": "AdaRubrics",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "agent-evaluation",
               "llm-evaluation",
@@ -587,10 +587,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-13T19:20:20Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 733,
+                "stars": 743,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:52:07.046Z",
+    "last_updated": "2026-09-14T21:03:58.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
