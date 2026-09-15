@@ -55,7 +55,7 @@ This repository is under active maintenance!
 
 *Literature surveys and forward-looking position/vision papers that map the trajectory-analysis landscape or propose research agendas for it.*
 
-1. **(arXiv 2026) Agent System Operations: Categorization, Challenges, and Future Directions** \[[Paper](https://arxiv.org/abs/2606.01581)]
+1. **(TSE 2026) Agent System Operations: Categorization, Challenges, and Future Directions** \[[Paper](https://arxiv.org/abs/2606.01581)]
    \| Defines AgentOps around monitoring, anomaly detection, root-cause
    localization, and resolution, with intra-agent and inter-agent anomaly
    taxonomies.
@@ -130,11 +130,11 @@ This repository is under active maintenance!
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
-2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 149 | 🐛 17 | 🌐 Python | 📅 2026-06-22
+2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 149 | 🐛 19 | 🌐 Python | 📅 2026-09-14
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
-3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 102 | 🐛 0 | 🌐 HTML | 📅 2026-08-27
+3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 103 | 🐛 0 | 🌐 HTML | 📅 2026-08-27
    \| Trains an AgenTracer-8B via counterfactual replay and programmed fault injection to attribute failures to responsible agents or trajectory segments.
    `multi-agent-system` `automated labeling pipeline` `reinforcement-learning`
 
@@ -142,7 +142,7 @@ This repository is under active maintenance!
    \| Introduces TraceElephant, a benchmark and evaluation framework that captures complete multi-agent execution traces for assessing failure attribution across agents, interactions, and time steps.
    `multi-agent` `benchmarking`
 
-5. **(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems** \[[Paper](https://arxiv.org/abs/2606.03467)] [![GitHub Repo stars](https://img.shields.io/github/stars/taiyu-zhu/StepFinder)](https://github.com/taiyu-zhu/StepFinder) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2026-09-14
+5. **(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems** \[[Paper](https://arxiv.org/abs/2606.03467)] [![GitHub Repo stars](https://img.shields.io/github/stars/taiyu-zhu/StepFinder)](https://github.com/taiyu-zhu/StepFinder) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2026-09-15
    \| Encodes execution logs into temporal semantic sequences with an LLM, then uses lightweight temporal modeling and attention over the sequence to score and localize the root-cause step, cutting inference time by 79% versus the fastest LLM-based baseline.
    `multi-agent` `failure-attribution` `temporal-modeling`
 
@@ -194,6 +194,10 @@ This repository is under active maintenance!
     \| Reframes failure attribution as error-first hypothesis verification against full trajectories rather than direct agent-error prediction, decomposing it into trajectory-level error validation and fine-grained agent localization via a fine-tuned LLM verifier.
     `multi-agent` `failure-attribution` `hypothesis-verification`
 
+18. **(arXiv 2026) Detect Before You Attribute: Cascade Failure Attribution for Multi-Agent Systems**\[[Paper](https://arxiv.org/abs/2608.29646)]
+    \| A extensible plug-and-play detection filter for LLM-based failure attribution.
+    `cascading failure` `detect-before-attribute`
+
 ### Runtime Intervention, Recovery, and Repair
 
 > *Methods that modify an ongoing or failed execution to prevent, recover from, or repair a failure.*
@@ -234,7 +238,7 @@ This repository is under active maintenance!
    \| Uses accumulated execution experience to construct and refine domain-specific agents.
    `general-agent` `experience-learning` `agent-construction`
 
-2. **(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness** \[[Paper](https://arxiv.org/abs/2512.15374)] [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisPei/SCOPE)](https://github.com/JarvisPei/SCOPE) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2026-03-26
+2. **(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness** \[[Paper](https://arxiv.org/abs/2512.15374)] [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisPei/SCOPE)](https://github.com/JarvisPei/SCOPE) ⭐ 84 | 🐛 2 | 🌐 Python | 📅 2026-03-26
    \| Uses trajectory feedback to evolve prompts and improve future agent performance.
    `general-agent` `prompt-optimization` `self-evolution`
 
@@ -286,7 +290,7 @@ This repository is under active maintenance!
 
 > *Methods that score the quality/rewarding of individual steps or whole trajectories.*
 
-1. **(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning** \[[Paper](https://arxiv.org/abs/2603.21362)] [![GitHub Repo stars](https://img.shields.io/github/stars/alphadl/AdaRubrics)](https://github.com/alphadl/AdaRubrics) ⭐ 361 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+1. **(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning** \[[Paper](https://arxiv.org/abs/2603.21362)] [![GitHub Repo stars](https://img.shields.io/github/stars/alphadl/AdaRubrics)](https://github.com/alphadl/AdaRubrics) ⭐ 362 | 🐛 1 | 🌐 Python | 📅 2026-08-24
    \| Dynamically generates task-specific rubrics to evaluate agent trajectories step by step and produce confidence-weighted preference data for reward learning.
    `general-agent` `rubric-evaluation` `reward-learning`
 
@@ -326,7 +330,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 686 | 🐛 27 | 🌐 C | 📅 2026-09-13
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 690 | 🐛 29 | 🌐 C | 📅 2026-09-13
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -382,7 +386,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 743 | 🐛 50 | 🌐 Python | 📅 2026-09-13] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 749 | 🐛 46 | 🌐 Python | 📅 2026-09-15] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -405,6 +409,10 @@ This repository is under active maintenance!
 6. **TRAIL** \[[Paper](https://arxiv.org/abs/2505.08638)] \[[HuggingFace](https://huggingface.co/datasets/PatronusAI/TRAIL)]
    \| 148 GAIA/SWE-Bench-derived agent traces with 841 annotated errors, for reasoning-trace analysis and agentic issue localization.
    `multi-agent` `issue-localization` `reasoning-trace`
+
+7. **LongRCA Bench** \[[Paper](https://arxiv.org/abs/2608.15242)] \[[Data](https://huggingface.co/datasets/CLoud5-real/longrca-bench)]
+   \| 1,140 failed trajectories from five task domains, labeled with error agent and error steps.
+   `multi-task` `error-step` `MAS`
 
 ### Deep-Research Agents
 
@@ -439,4 +447,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
