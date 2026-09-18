@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 416,
+            "stars": 415,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -109,7 +109,7 @@
             "open_issues": 4,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 390,
+            "stars": 389,
             "topics": [
               "agent",
               "autogen",
@@ -178,7 +178,7 @@
             "open_issues": 0,
             "owner": "TraceElephant",
             "repo": "TraceElephant",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -482,7 +482,7 @@
             "open_issues": 29,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 695,
+            "stars": 699,
             "topics": [
               "agent",
               "ebpf",
@@ -529,7 +529,7 @@
             "open_issues": 0,
             "owner": "yzhao062",
             "repo": "grade",
-            "stars": 9,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -590,7 +590,7 @@
                 "open_issues": 47,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 773,
+                "stars": 778,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 390,
+                "stars": 389,
                 "topics": [
                   "agent",
                   "autogen",
@@ -659,7 +659,7 @@
                 "open_issues": 4,
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:35:03.786Z",
+    "last_updated": "2026-09-18T19:59:19.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
