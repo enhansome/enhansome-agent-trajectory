@@ -482,7 +482,7 @@
             "open_issues": 29,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 700,
+            "stars": 703,
             "topics": [
               "agent",
               "ebpf",
@@ -558,7 +558,7 @@
                 "open_issues": 6,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 124,
+                "stars": 125,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -586,11 +586,11 @@
                 "id": 1206519531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T19:20:48Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-20T05:45:35Z",
+                "open_issues": 48,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 791,
+                "stars": 801,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:36:45.075Z",
+    "last_updated": "2026-09-20T19:48:45.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -728,7 +728,7 @@
       "open_issues": 0,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 85,
+      "stars": 86,
       "topics": [
         "agent-trajectory",
         "agentic-ai",
