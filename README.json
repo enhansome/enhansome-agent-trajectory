@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -157,7 +157,7 @@
             "open_issues": 0,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -482,7 +482,7 @@
             "open_issues": 30,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 704,
+            "stars": 706,
             "topics": [
               "agent",
               "ebpf",
@@ -590,7 +590,7 @@
                 "open_issues": 48,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 813,
+                "stars": 823,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:15:05.157Z",
+    "last_updated": "2026-09-22T20:29:51.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -728,7 +728,7 @@
       "open_issues": 0,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 87,
+      "stars": 88,
       "topics": [
         "agent-trajectory",
         "agentic-ai",
