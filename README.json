@@ -344,7 +344,7 @@
             "open_issues": 1,
             "owner": "alphadl",
             "repo": "AdaRubrics",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "agent-evaluation",
               "llm-evaluation",
@@ -482,7 +482,7 @@
             "open_issues": 30,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 706,
+            "stars": 707,
             "topics": [
               "agent",
               "ebpf",
@@ -508,7 +508,7 @@
             "open_issues": 7,
             "owner": "NJU-LINK",
             "repo": "CodeTracer",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -529,7 +529,7 @@
             "open_issues": 0,
             "owner": "yzhao062",
             "repo": "grade",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -590,7 +590,7 @@
                 "open_issues": 51,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 835,
+                "stars": 841,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:42:28.058Z",
+    "last_updated": "2026-09-24T20:48:04.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
