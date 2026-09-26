@@ -126,11 +126,11 @@ This repository is under active maintenance!
 
 > *Methods that identify where a trajectory failed, which component was responsible, and why the failure occurred.*
 
-1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 390 | 🐛 4 | 🌐 Python | 📅 2026-02-11
+1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 391 | 🐛 4 | 🌐 Python | 📅 2026-02-11
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
-2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 149 | 🐛 19 | 🌐 Python | 📅 2026-09-14
+2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 150 | 🐛 19 | 🌐 Python | 📅 2026-09-14
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
@@ -202,7 +202,7 @@ This repository is under active maintenance!
 
 > *Methods that modify an ongoing or failed execution to prevent, recover from, or repair a failure.*
 
-1. **(CHI 2025) Interactive Debugging and Steering of Multi-Agent AI Systems** \[[Paper](https://dl.acm.org/doi/10.1145/3706598.3713581)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/agdebugger)](https://github.com/microsoft/agdebugger) ⭐ 76 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-11
+1. **(CHI 2025) Interactive Debugging and Steering of Multi-Agent AI Systems** \[[Paper](https://dl.acm.org/doi/10.1145/3706598.3713581)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/agdebugger)](https://github.com/microsoft/agdebugger) ⭐ 77 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-11
    \| Introduces AGDebugger, an interface for inspecting, editing, resetting, and steering messages in multi-agent executions.
    `multi-agent` `interactive-debugging` `runtime-steering`
 
@@ -386,11 +386,11 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 849 | 🐛 51 | 🌐 Python | 📅 2026-09-20] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 861 | 🐛 51 | 🌐 Python | 📅 2026-09-20] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
-2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 390 | 🐛 4 | 🌐 Python | 📅 2026-02-11
+2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 391 | 🐛 4 | 🌐 Python | 📅 2026-02-11
    \| 127 multi-agent trajectories annotated with the responsible agent and the time at which the failure was introduced.
    `multi-agent` `agent-attribution` `temporal-localization`
 
@@ -447,4 +447,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
