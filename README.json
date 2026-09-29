@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 419,
+            "stars": 420,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -109,7 +109,7 @@
             "open_issues": 4,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 391,
+            "stars": 393,
             "topics": [
               "agent",
               "autogen",
@@ -479,10 +479,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-13T06:35:23Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 711,
+            "stars": 713,
             "topics": [
               "agent",
               "ebpf",
@@ -529,7 +529,7 @@
             "open_issues": 0,
             "owner": "yzhao062",
             "repo": "grade",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -590,7 +590,7 @@
                 "open_issues": 51,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 883,
+                "stars": 892,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 391,
+                "stars": 393,
                 "topics": [
                   "agent",
                   "autogen",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:38:57.251Z",
+    "last_updated": "2026-09-29T21:32:20.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
