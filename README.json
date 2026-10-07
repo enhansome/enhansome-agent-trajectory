@@ -136,7 +136,7 @@
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -157,7 +157,7 @@
             "open_issues": 1,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 104,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -478,11 +478,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-05T07:26:19Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-07T16:35:07Z",
+            "open_issues": 36,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 726,
+            "stars": 727,
             "topics": [
               "agent",
               "ebpf",
@@ -590,7 +590,7 @@
                 "open_issues": 51,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 959,
+                "stars": 968,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:54:32.146Z",
+    "last_updated": "2026-10-07T22:17:16.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -728,7 +728,7 @@
       "open_issues": 1,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 94,
+      "stars": 95,
       "topics": [
         "agent-trajectory",
         "agentic-ai",
