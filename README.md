@@ -126,7 +126,7 @@ This repository is under active maintenance!
 
 > *Methods that identify where a trajectory failed, which component was responsible, and why the failure occurred.*
 
-1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 393 | 🐛 4 | 🌐 Python | 📅 2026-02-11
+1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 394 | 🐛 4 | 🌐 Python | 📅 2026-02-11
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
@@ -134,11 +134,11 @@ This repository is under active maintenance!
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
-3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 103 | 🐛 1 | 🌐 HTML | 📅 2026-08-27
+3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 104 | 🐛 1 | 🌐 HTML | 📅 2026-08-27
    \| Trains an AgenTracer-8B via counterfactual replay and programmed fault injection to attribute failures to responsible agents or trajectory segments.
    `multi-agent-system` `automated labeling pipeline` `reinforcement-learning`
 
-4. **(ACL 2026) Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems** \[[Paper](https://aclanthology.org/2026.acl-long.912/)] [![GitHub Repo stars](https://img.shields.io/github/stars/TraceElephant/TraceElephant)](https://github.com/TraceElephant/TraceElephant) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-04-27
+4. **(ACL 2026) Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems** \[[Paper](https://aclanthology.org/2026.acl-long.912/)] [![GitHub Repo stars](https://img.shields.io/github/stars/TraceElephant/TraceElephant)](https://github.com/TraceElephant/TraceElephant) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-04-27
    \| Introduces TraceElephant, a benchmark and evaluation framework that captures complete multi-agent execution traces for assessing failure attribution across agents, interactions, and time steps.
    `multi-agent` `benchmarking`
 
@@ -238,7 +238,7 @@ This repository is under active maintenance!
    \| Uses accumulated execution experience to construct and refine domain-specific agents.
    `general-agent` `experience-learning` `agent-construction`
 
-2. **(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness** \[[Paper](https://arxiv.org/abs/2512.15374)] [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisPei/SCOPE)](https://github.com/JarvisPei/SCOPE) ⭐ 84 | 🐛 2 | 🌐 Python | 📅 2026-03-26
+2. **(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness** \[[Paper](https://arxiv.org/abs/2512.15374)] [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisPei/SCOPE)](https://github.com/JarvisPei/SCOPE) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2026-03-26
    \| Uses trajectory feedback to evolve prompts and improve future agent performance.
    `general-agent` `prompt-optimization` `self-evolution`
 
@@ -290,7 +290,7 @@ This repository is under active maintenance!
 
 > *Methods that score the quality/rewarding of individual steps or whole trajectories.*
 
-1. **(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning** \[[Paper](https://arxiv.org/abs/2603.21362)] [![GitHub Repo stars](https://img.shields.io/github/stars/alphadl/AdaRubrics)](https://github.com/alphadl/AdaRubrics) ⭐ 364 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+1. **(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning** \[[Paper](https://arxiv.org/abs/2603.21362)] [![GitHub Repo stars](https://img.shields.io/github/stars/alphadl/AdaRubrics)](https://github.com/alphadl/AdaRubrics) ⭐ 365 | 🐛 1 | 🌐 Python | 📅 2026-08-24
    \| Dynamically generates task-specific rubrics to evaluate agent trajectories step by step and produce confidence-weighted preference data for reward learning.
    `general-agent` `rubric-evaluation` `reward-learning`
 
@@ -330,7 +330,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 727 | 🐛 36 | 🌐 C | 📅 2026-10-07
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 731 | 🐛 37 | 🌐 C | 📅 2026-10-07
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -368,7 +368,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 138 | 🐛 16 | 🌐 Python | 📅 2026-08-22]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 140 | 🐛 16 | 🌐 Python | 📅 2026-08-22]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -386,11 +386,11 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 968 | 🐛 51 | 🌐 Python | 📅 2026-10-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 982 | 🐛 52 | 🌐 Python | 📅 2026-10-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
-2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 393 | 🐛 4 | 🌐 Python | 📅 2026-02-11
+2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 394 | 🐛 4 | 🌐 Python | 📅 2026-02-11
    \| 127 multi-agent trajectories annotated with the responsible agent and the time at which the failure was introduced.
    `multi-agent` `agent-attribution` `temporal-localization`
 
@@ -447,4 +447,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
