@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 424,
+            "stars": 425,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -136,7 +136,7 @@
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 153,
+            "stars": 155,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -157,7 +157,7 @@
             "open_issues": 1,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -479,7 +479,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-14T17:17:10Z",
-            "open_issues": 39,
+            "open_issues": 41,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
             "stars": 743,
@@ -554,11 +554,11 @@
                 "id": 1268228289,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-22T08:02:11Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-15T10:50:51Z",
+                "open_issues": 11,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 145,
+                "stars": 147,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -590,7 +590,7 @@
                 "open_issues": 53,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1030,
+                "stars": 1043,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:59:02.057Z",
+    "last_updated": "2026-10-15T20:33:28.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
