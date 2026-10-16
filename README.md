@@ -134,7 +134,7 @@ This repository is under active maintenance!
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
-3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 106 | 🐛 1 | 🌐 HTML | 📅 2026-08-27
+3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 107 | 🐛 1 | 🌐 HTML | 📅 2026-08-27
    \| Trains an AgenTracer-8B via counterfactual replay and programmed fault injection to attribute failures to responsible agents or trajectory segments.
    `multi-agent-system` `automated labeling pipeline` `reinforcement-learning`
 
@@ -142,7 +142,7 @@ This repository is under active maintenance!
    \| Introduces TraceElephant, a benchmark and evaluation framework that captures complete multi-agent execution traces for assessing failure attribution across agents, interactions, and time steps.
    `multi-agent` `benchmarking`
 
-5. **(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems** \[[Paper](https://arxiv.org/abs/2606.03467)] [![GitHub Repo stars](https://img.shields.io/github/stars/taiyu-zhu/StepFinder)](https://github.com/taiyu-zhu/StepFinder) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-09-15
+5. **(arXiv 2026) StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems** \[[Paper](https://arxiv.org/abs/2606.03467)] [![GitHub Repo stars](https://img.shields.io/github/stars/taiyu-zhu/StepFinder)](https://github.com/taiyu-zhu/StepFinder) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-09-15
    \| Encodes execution logs into temporal semantic sequences with an LLM, then uses lightweight temporal modeling and attention over the sequence to score and localize the root-cause step, cutting inference time by 79% versus the fastest LLM-based baseline.
    `multi-agent` `failure-attribution` `temporal-modeling`
 
@@ -238,7 +238,7 @@ This repository is under active maintenance!
    \| Uses accumulated execution experience to construct and refine domain-specific agents.
    `general-agent` `experience-learning` `agent-construction`
 
-2. **(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness** \[[Paper](https://arxiv.org/abs/2512.15374)] [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisPei/SCOPE)](https://github.com/JarvisPei/SCOPE) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2026-03-26
+2. **(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness** \[[Paper](https://arxiv.org/abs/2512.15374)] [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisPei/SCOPE)](https://github.com/JarvisPei/SCOPE) ⭐ 84 | 🐛 2 | 🌐 Python | 📅 2026-03-26
    \| Uses trajectory feedback to evolve prompts and improve future agent performance.
    `general-agent` `prompt-optimization` `self-evolution`
 
@@ -330,7 +330,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 743 | 🐛 41 | 🌐 C | 📅 2026-10-14
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 748 | 🐛 41 | 🌐 C | 📅 2026-10-14
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -368,7 +368,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 147 | 🐛 11 | 🌐 Python | 📅 2026-10-15]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 147 | 🐛 14 | 🌐 Python | 📅 2026-10-15]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -386,7 +386,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,043 | 🐛 53 | 🌐 Python | 📅 2026-10-13] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,054 | 🐛 55 | 🌐 Python | 📅 2026-10-16] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -447,4 +447,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
