@@ -157,7 +157,7 @@
             "open_issues": 1,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 107,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -371,7 +371,7 @@
             "open_issues": 0,
             "owner": "RUCBM",
             "repo": "AgentProcessBench",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -558,7 +558,7 @@
                 "open_issues": 14,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 147,
+                "stars": 149,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -586,11 +586,11 @@
                 "id": 1206519531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T00:30:15Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-17T00:44:41Z",
+                "open_issues": 50,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1054,
+                "stars": 1062,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T20:06:46.625Z",
+    "last_updated": "2026-10-17T19:43:34.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
