@@ -78,7 +78,7 @@ This repository is under active maintenance!
 
 > *Empirical research that describes how agents behave and identifies recurring trajectory structures, strategies, and failure patterns.*
 
-1. **(NeurIPS Dataset\&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail?** \[[Paper](https://arxiv.org/pdf/2503.13657)] [![GitHub Repo stars](https://img.shields.io/github/stars/multi-agent-systems-failure-taxonomy/MAST)](https://github.com/multi-agent-systems-failure-taxonomy/MAST) ⭐ 425 | 🐛 14 | 🌐 Python | 📅 2025-07-23
+1. **(NeurIPS Dataset\&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail?** \[[Paper](https://arxiv.org/pdf/2503.13657)] [![GitHub Repo stars](https://img.shields.io/github/stars/multi-agent-systems-failure-taxonomy/MAST)](https://github.com/multi-agent-systems-failure-taxonomy/MAST) ⭐ 427 | 🐛 14 | 🌐 Python | 📅 2025-07-23
    \| Analyzes recurring failure modes in multi-agent systems and develops a taxonomy spanning agent design, coordination, and verification.
    `multi-agent` `failure-taxonomy`
 
@@ -130,7 +130,7 @@ This repository is under active maintenance!
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
-2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 156 | 🐛 20 | 🌐 Python | 📅 2026-09-14
+2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 158 | 🐛 20 | 🌐 Python | 📅 2026-09-14
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
@@ -202,7 +202,7 @@ This repository is under active maintenance!
 
 > *Methods that modify an ongoing or failed execution to prevent, recover from, or repair a failure.*
 
-1. **(CHI 2025) Interactive Debugging and Steering of Multi-Agent AI Systems** \[[Paper](https://dl.acm.org/doi/10.1145/3706598.3713581)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/agdebugger)](https://github.com/microsoft/agdebugger) ⭐ 77 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-11
+1. **(CHI 2025) Interactive Debugging and Steering of Multi-Agent AI Systems** \[[Paper](https://dl.acm.org/doi/10.1145/3706598.3713581)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/agdebugger)](https://github.com/microsoft/agdebugger) ⭐ 78 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-11
    \| Introduces AGDebugger, an interface for inspecting, editing, resetting, and steering messages in multi-agent executions.
    `multi-agent` `interactive-debugging` `runtime-steering`
 
@@ -290,7 +290,7 @@ This repository is under active maintenance!
 
 > *Methods that score the quality/rewarding of individual steps or whole trajectories.*
 
-1. **(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning** \[[Paper](https://arxiv.org/abs/2603.21362)] [![GitHub Repo stars](https://img.shields.io/github/stars/alphadl/AdaRubrics)](https://github.com/alphadl/AdaRubrics) ⭐ 365 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+1. **(arXiv 2026) AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning** \[[Paper](https://arxiv.org/abs/2603.21362)] [![GitHub Repo stars](https://img.shields.io/github/stars/alphadl/AdaRubrics)](https://github.com/alphadl/AdaRubrics) ⭐ 366 | 🐛 1 | 🌐 Python | 📅 2026-08-24
    \| Dynamically generates task-specific rubrics to evaluate agent trajectories step by step and produce confidence-weighted preference data for reward learning.
    `general-agent` `rubric-evaluation` `reward-learning`
 
@@ -368,7 +368,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 151 | 🐛 13 | 🌐 Python | 📅 2026-10-19]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 152 | 🐛 13 | 🌐 Python | 📅 2026-10-19]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -386,7 +386,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,081 | 🐛 52 | 🌐 Python | 📅 2026-10-17] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,088 | 🐛 52 | 🌐 Python | 📅 2026-10-17] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -447,4 +447,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
