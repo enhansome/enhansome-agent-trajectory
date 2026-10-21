@@ -109,7 +109,7 @@
             "open_issues": 4,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 396,
+            "stars": 398,
             "topics": [
               "agent",
               "autogen",
@@ -344,7 +344,7 @@
             "open_issues": 1,
             "owner": "alphadl",
             "repo": "AdaRubrics",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "agent-evaluation",
               "llm-evaluation",
@@ -482,7 +482,7 @@
             "open_issues": 41,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 750,
+            "stars": 754,
             "topics": [
               "agent",
               "ebpf",
@@ -587,10 +587,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-17T00:44:41Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1088,
+                "stars": 1093,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 396,
+                "stars": 398,
                 "topics": [
                   "agent",
                   "autogen",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:54:33.671Z",
+    "last_updated": "2026-10-21T20:55:06.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
