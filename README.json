@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 427,
+            "stars": 429,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -106,7 +106,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-11T17:30:51Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
             "stars": 398,
@@ -136,7 +136,7 @@
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 158,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -157,7 +157,7 @@
             "open_issues": 1,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 109,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -478,11 +478,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-19T17:38:23Z",
+            "last_commit": "2026-10-22T17:11:18Z",
             "open_issues": 41,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 754,
+            "stars": 753,
             "topics": [
               "agent",
               "ebpf",
@@ -508,7 +508,7 @@
             "open_issues": 8,
             "owner": "NJU-LINK",
             "repo": "CodeTracer",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -555,10 +555,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T05:03:56Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -587,10 +587,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-17T00:44:41Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1093,
+                "stars": 1080,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -629,7 +629,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-11T17:30:51Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
                 "stars": 398,
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:55:06.488Z",
+    "last_updated": "2026-10-22T20:50:43.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
