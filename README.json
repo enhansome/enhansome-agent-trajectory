@@ -47,27 +47,6 @@
         },
         {
           "node_type": "item",
-          "title": "(arXiv 2026) Failure as a Process: An Anatomy of CLI Coding Agent Trajectories [Paper",
-          "description": "] | Studies failure as a developing process across CLI-agent trajectories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1295476334,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-07-09T15:32:04Z",
-            "open_issues": 1,
-            "owner": "xz-Sean",
-            "repo": "cli_trajectory_analysis",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:11:17.548Z"
-        },
-        {
-          "node_type": "item",
           "title": "(ASE-NIER 2025) Exploring autonomous agents: A closer look at why they fail when completing tasks [Paper",
           "description": "] | Develops a three-tier taxonomy that characterizes autonomous-agent failures across task-planning, task-execution, and response-generation phases.",
           "children": [],
@@ -136,7 +115,7 @@
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 159,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -289,7 +268,7 @@
             "open_issues": 2,
             "owner": "JarvisPei",
             "repo": "SCOPE",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "agents",
               "llm",
@@ -478,11 +457,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-22T17:11:18Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-23T17:15:23Z",
+            "open_issues": 34,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 753,
+            "stars": 754,
             "topics": [
               "agent",
               "ebpf",
@@ -558,7 +537,7 @@
                 "open_issues": 14,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 153,
+                "stars": 155,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -586,11 +565,11 @@
                 "id": 1206519531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T00:44:41Z",
+                "last_commit": "2026-10-23T15:52:23Z",
                 "open_issues": 54,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1080,
+                "stars": 1086,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -716,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:50:43.601Z",
+    "last_updated": "2026-10-23T20:40:08.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
