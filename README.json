@@ -88,7 +88,7 @@
             "open_issues": 5,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 398,
+            "stars": 397,
             "topics": [
               "agent",
               "autogen",
@@ -115,7 +115,7 @@
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -569,7 +569,7 @@
                 "open_issues": 54,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1086,
+                "stars": 1098,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -611,7 +611,7 @@
                 "open_issues": 5,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 398,
+                "stars": 397,
                 "topics": [
                   "agent",
                   "autogen",
@@ -638,7 +638,7 @@
                 "open_issues": 4,
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
-                "stars": 107,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:40:08.362Z",
+    "last_updated": "2026-10-24T19:50:48.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
