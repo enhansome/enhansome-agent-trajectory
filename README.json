@@ -88,7 +88,7 @@
             "open_issues": 5,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 397,
+            "stars": 396,
             "topics": [
               "agent",
               "autogen",
@@ -115,7 +115,7 @@
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 161,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -461,7 +461,7 @@
             "open_issues": 35,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 754,
+            "stars": 755,
             "topics": [
               "agent",
               "ebpf",
@@ -487,7 +487,7 @@
             "open_issues": 8,
             "owner": "NJU-LINK",
             "repo": "CodeTracer",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -537,7 +537,7 @@
                 "open_issues": 14,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -569,7 +569,7 @@
                 "open_issues": 53,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1115,
+                "stars": 1125,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -611,7 +611,7 @@
                 "open_issues": 5,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 397,
+                "stars": 396,
                 "topics": [
                   "agent",
                   "autogen",
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T20:00:01.522Z",
+    "last_updated": "2026-10-26T21:55:33.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -707,7 +707,7 @@
       "open_issues": 3,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 97,
+      "stars": 98,
       "topics": [
         "agent-trajectory",
         "agentic-ai",
