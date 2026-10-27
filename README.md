@@ -90,29 +90,29 @@ This repository is under active maintenance!
    \| Develops a three-tier taxonomy that characterizes autonomous-agent failures across task-planning, task-execution, and response-generation phases.
    `general-agent` `failure-taxonomy` `phase-analysis`
 
-4. **(arXiv 2025) Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios** \[[Paper](https://arxiv.org/pdf/2503.12374)]
+4. **(arXiv 2026) Failure as a Process: An Anatomy of CLI Coding Agent Trajectories** \[[Paper](https://arxiv.org/abs/2607.09510)] [![GitHub Repo stars](https://img.shields.io/github/stars/xz-Sean/cli_trajectory_analysis)](https://github.com/xz-Sean/cli_trajectory_analysis) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-27
+   \| Studies failure as a developing process across CLI-agent trajectories.
+   `CLI-agent` `process-analysis`
+
+5. **(arXiv 2025) Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios** \[[Paper](https://arxiv.org/pdf/2503.12374)]
    \| Examines intermediate development behavior beyond final code patches.
    `coding-agent` `error-taxonomy` `process-analysis`
 
-5. **(arXiv 2025) Demystifying the Lifecycle of Failures in Platform-Orchestrated Agentic Workflows** \[[Paper](https://arxiv.org/abs/2509.23735)]
+6. **(arXiv 2025) Demystifying the Lifecycle of Failures in Platform-Orchestrated Agentic Workflows** \[[Paper](https://arxiv.org/abs/2509.23735)]
    \| Characterizes how failures originate, propagate, and become visible across orchestrated agent workflows.
    `workflow-agent` `failure-lifecycle` `error-propagation`
 
-6. **(arXiv 2025) Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories** \[[Paper](https://arxiv.org/abs/2511.00197)]
+7. **(arXiv 2025) Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories** \[[Paper](https://arxiv.org/abs/2511.00197)]
    \| Comparatively studies success and failure trajectories, identifying strategies like defensive programming and context gathering that distinguish successful runs.
    `coding-agent` `comparative-study`
 
-7. **(ASE 2026) Evaluating Plan Compliance in Autonomous Programming Agents** \[[Paper](https://arxiv.org/abs/2604.12147)]
+8. **(ASE 2026) Evaluating Plan Compliance in Autonomous Programming Agents** \[[Paper](https://arxiv.org/abs/2604.12147)]
    \| Systematically analyzes 16,991 SWE-agent trajectories, finding that plan quality and reminders substantially affect compliance and task success.
    `coding-agent` `plan-compliance`
 
-8. **(OOPSLA 2026) Process-Centric Analysis of Agentic Software Systems** \[[Paper](https://arxiv.org/abs/2512.02393)]
+9. **(OOPSLA 2026) Process-Centric Analysis of Agentic Software Systems** \[[Paper](https://arxiv.org/abs/2512.02393)]
    \| Introduces Graphectory to encode temporal and semantic relations in agentic trajectories.
    `process-analysis` `trajectory-representation`
-
-9. **(arXiv 2026) Failure as a Process: An Anatomy of CLI Coding Agent Trajectories** \[[Paper](https://arxiv.org/abs/2607.09510)] [![GitHub Repo stars](https://img.shields.io/github/stars/xz-Sean/cli_trajectory_analysis)](https://github.com/xz-Sean/cli_trajectory_analysis)
-   \| Studies failure as a developing process across CLI-agent trajectories.
-   `CLI-agent` `process-analysis`
 
 10. **(arXiv 2026) Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure** \[[Paper](https://arxiv.org/abs/2604.02547)]
     \| Investigates trajectory-level behaviors associated with successful and unsuccessful issue resolution.
@@ -190,7 +190,7 @@ This repository is under active maintenance!
     \| Introduces AgentLocate, which combines an LLM-based judge with multi-perspective verification by independent evaluators and confidence-aware aggregation, then adapts the judge via lightweight fine-tuning to attribute failures to both the responsible agent and the earliest decisive step.
     `multi-agent` `failure-attribution` `llm-as-judge`
 
-17. **(arXiv 2026) VerifyMAS: Hypothesis Verification for Failure Attribution in LLM Multi-Agent Systems** \[[Paper](https://arxiv.org/abs/2605.17467)]
+17. **(NeurIPS 2026) VerifyMAS: Hypothesis Verification for Failure Attribution in LLM Multi-Agent Systems** \[[Paper](https://arxiv.org/abs/2605.17467)]
     \| Reframes failure attribution as error-first hypothesis verification against full trajectories rather than direct agent-error prediction, decomposing it into trajectory-level error validation and fine-grained agent localization via a fine-tuned LLM verifier.
     `multi-agent` `failure-attribution` `hypothesis-verification`
 
@@ -330,7 +330,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 755 | 🐛 35 | 🌐 C | 📅 2026-10-23
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 756 | 🐛 35 | 🌐 C | 📅 2026-10-23
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -350,17 +350,21 @@ This repository is under active maintenance!
 
 > *Systems that help people inspect, understand, annotate, compare, or control agent trajectories.*
 
-1. **(AAAI 2025 Demonstration) Agent Trajectory Explorer: Visualizing and Providing Feedback on Agent Trajectories** \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35350)]
+1. **(arXiv 2026) onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction** \[[Paper](https://arxiv.org/abs/2609.24983)] \[[Website](https://on-panda.github.io/agent-trajectory-annotation/)] [![GitHub Repo stars](https://img.shields.io/github/stars/on-panda/on-panda)](https://github.com/on-panda/on-panda) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26
+   \| Connects to live agent environments via MCP to support interactive token-level correction of reasoning chains and tool calls, producing on-policy SFT, preference, and fine-grained supervision data.
+   `general-agent` `trajectory-annotation` `token-level-correction`
+
+2. **(arXiv 2026) From Features to Actions: Explainability in Traditional and Agentic AI Systems** \[[Paper](https://arxiv.org/abs/2602.06841)] [![GitHub Repo stars](https://img.shields.io/github/stars/VectorInstitute/unified-xai-evaluation-framework)](https://github.com/VectorInstitute/unified-xai-evaluation-framework) ⭐ 4 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-03-19
+   \| Examines how explainability changes when predictions are replaced by sequential, tool-mediated agent actions.
+   `general-agent` `explainability` `conceptual-analysis`
+
+3. **(AAAI 2025 Demonstration) Agent Trajectory Explorer: Visualizing and Providing Feedback on Agent Trajectories** \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35350)]
    \| Renders trajectories as navigable thought-action-observation turns and provides an interface for visualizing, annotating, and communicating feedback about agent behavior.
    `general-agent` `visualization` `human-feedback`
 
-2. **(CHI 2026) DiLLS: Interactive Diagnosis of LLM-Based Multi-Agent Systems via Layered Summary of Agent Behaviors** \[[Paper](https://arxiv.org/abs/2602.05446)]
+4. **(CHI 2026) DiLLS: Interactive Diagnosis of LLM-Based Multi-Agent Systems via Layered Summary of Agent Behaviors** \[[Paper](https://arxiv.org/abs/2602.05446)]
    \| Uses layered behavioral summaries to help users navigate and diagnose complex multi-agent executions.
    `multi-agent` `interactive-diagnosis` `summarization`
-
-3. **(arXiv 2026) From Features to Actions: Explainability in Traditional and Agentic AI Systems** \[[Paper](https://arxiv.org/abs/2602.06841)] [![GitHub Repo stars](https://img.shields.io/github/stars/VectorInstitute/unified-xai-evaluation-framework)](https://github.com/VectorInstitute/unified-xai-evaluation-framework) ⭐ 4 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-03-19
-   \| Examines how explainability changes when predictions are replaced by sequential, tool-mediated agent actions.
-   `general-agent` `explainability` `conceptual-analysis`
 
 ## Trajectory Benchmarks and Datasets
 
@@ -386,7 +390,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,125 | 🐛 53 | 🌐 Python | 📅 2026-10-23] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,133 | 🐛 53 | 🌐 Python | 📅 2026-10-23] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -402,7 +406,7 @@ This repository is under active maintenance!
    \| 9,533 trajectories across diverse MAS architectures and task domains, automatically labeled with faulty agents and error modes via an LLM-based error injector, supporting SFT, RL, and contrastive-learning training paradigms.
    `multi-agent` `failure-attribution` `automated-annotation`
 
-5. **MP-Bench** \[[Paper](https://arxiv.org/abs/2603.25001)] [![GitHub Repo stars](https://img.shields.io/github/stars/yeonjun-in/MP-Bench)](https://github.com/yeonjun-in/MP-Bench) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-16
+5. **MP-Bench** \[[Paper](https://arxiv.org/abs/2603.25001)] [![GitHub Repo stars](https://img.shields.io/github/stars/yeonjun-in/MP-Bench)](https://github.com/yeonjun-in/MP-Bench) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-07-16
    \| Multi-perspective attribution data (289 instances) containing per-annotator failure-reason and ideal-action annotations.
    `multi-agent` `multi-perspective` `ideal-action`
 
@@ -447,4 +451,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

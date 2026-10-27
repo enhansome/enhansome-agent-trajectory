@@ -65,6 +65,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) Failure as a Process: An Anatomy of CLI Coding Agent Trajectories [Paper",
+          "description": "] | Studies failure as a developing process across CLI-agent trajectories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1295476334,
+            "language": "Python",
+            "license": "CC-BY-4.0",
+            "last_commit": "2026-10-27T11:55:17Z",
+            "open_issues": 1,
+            "owner": "xz-Sean",
+            "repo": "cli_trajectory_analysis",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-27T21:29:43.816Z"
         }
       ],
       "title": "Empirical Study/Characterization"
@@ -461,7 +482,7 @@
             "open_issues": 35,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 755,
+            "stars": 756,
             "topics": [
               "agent",
               "ebpf",
@@ -517,6 +538,64 @@
       "title": "Trajectory Representation"
     },
     {
+      "description": "Systems that help people inspect, understand, annotate, compare, or control agent trajectories.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction [Paper",
+          "description": "] [Website] | Connects to live agent environments via MCP to support interactive token-level correction of reasoning chains and tool calls, producing on-policy SFT, preference, and fine-grained supervision data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🐼 Steer your LLMs and agents at the token level: A web tool for token visualization & control, model inspection, installation-free harness, and LLM & agent trajectory annotation.",
+            "homepage": "https://onpanda.diyer22.com/",
+            "id": 846543521,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-26T05:06:31Z",
+            "open_issues": 0,
+            "owner": "on-panda",
+            "repo": "on-panda",
+            "stars": 65,
+            "topics": [
+              "agent-evaluation",
+              "agent-trajectory",
+              "agent-trajectory-annotation",
+              "agent-trajectory-annotation-tool",
+              "data-annotation",
+              "llm-ui",
+              "model-inspection",
+              "token-level-correction",
+              "token-visualization"
+            ]
+          },
+          "first_seen": "2026-10-27T21:29:43.816Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(arXiv 2026) From Features to Actions: Explainability in Traditional and Agentic AI Systems [Paper",
+          "description": "] | Examines how explainability changes when predictions are replaced by sequential, tool-mediated agent actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://vectorinstitute.github.io/unified-xai-evaluation-framework/",
+            "id": 1140060598,
+            "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
+            "last_commit": "2026-03-19T14:09:43Z",
+            "open_issues": 11,
+            "owner": "VectorInstitute",
+            "repo": "unified-xai-evaluation-framework",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-10-27T21:29:43.816Z"
+        }
+      ],
+      "title": "Human-Centered Analysis, Visualization, and Explainability"
+    },
+    {
       "description": "Benchmarks are organized by task domain.",
       "items": [
         {
@@ -569,7 +648,7 @@
                 "open_issues": 53,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1125,
+                "stars": 1133,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -680,7 +759,7 @@
                 "open_issues": 0,
                 "owner": "yeonjun-in",
                 "repo": "MP-Bench",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
@@ -695,7 +774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:55:33.502Z",
+    "last_updated": "2026-10-27T21:29:43.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -703,11 +782,11 @@
       "id": 1307432618,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-15T13:23:21Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-27T00:32:28Z",
+      "open_issues": 1,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 98,
+      "stars": 100,
       "topics": [
         "agent-trajectory",
         "agentic-ai",
@@ -717,7 +796,7 @@
         "trajectory-analysis"
       ]
     },
-    "original_repository_sha": "7a36043941edf5d7de32e6e9e7bafc9f4c690d60",
+    "original_repository_sha": "1d275004cc24c9b38c98aad7cf83227e66066a09",
     "enhanced_repository": "enhansome/enhansome-agent-trajectory",
     "enhanced_repository_description": null,
     "title": "Awesome-Agent-Trajectory with stars"
