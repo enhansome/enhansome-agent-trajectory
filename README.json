@@ -26,6 +26,45 @@
         },
         {
           "node_type": "item",
+          "title": "(arXiv 2026) Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy [Paper",
+          "description": "] | Maps recurring failure modes from multi-agent research runs across 10+ fields, including 105 audit reports with zero clean passes and emergent group failures among agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Claude Code plugin for autonomous AI research — multi-agent loops take a bare topic all the way to running experiments, with no human-written experimental code.",
+            "homepage": "https://haizhaoyang.github.io/research/autoresearch.html",
+            "id": 1273471983,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-06T19:57:29Z",
+            "open_issues": 2,
+            "owner": "AutoResearch-Factory",
+            "repo": "Agon",
+            "stars": 54,
+            "topics": [
+              "agent-orchestration",
+              "agentic-ai",
+              "ai-agents",
+              "ai-scientist",
+              "automated-research",
+              "autonomous-research",
+              "autoresearch",
+              "claude-code",
+              "claude-code-plugin",
+              "deep-research",
+              "literature-review",
+              "llm-agents",
+              "multi-agent",
+              "prompt-economy",
+              "research-agent",
+              "research-automation",
+              "scientific-discovery"
+            ]
+          },
+          "first_seen": "2026-10-29T22:01:50.863Z"
+        },
+        {
+          "node_type": "item",
           "title": "(ASE 2025 Distinguished Paper Award) Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories [Paper",
           "description": "] | Studies 120 trajectories and 2,822 LLM interactions, identifying recurring motifs, anti-patterns, token-use patterns, and feedback-integration agentic coding behavior.",
           "children": [],
@@ -106,10 +145,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-11T17:30:51Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 396,
+            "stars": 397,
             "topics": [
               "agent",
               "autogen",
@@ -157,7 +196,7 @@
             "open_issues": 1,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -478,11 +517,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-28T17:20:00Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-29T16:35:48Z",
+            "open_issues": 40,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 762,
+            "stars": 763,
             "topics": [
               "agent",
               "ebpf",
@@ -616,7 +655,7 @@
                 "open_issues": 14,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -648,7 +687,7 @@
                 "open_issues": 53,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1146,
+                "stars": 1151,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -687,10 +726,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-11T17:30:51Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 396,
+                "stars": 397,
                 "topics": [
                   "agent",
                   "autogen",
@@ -763,6 +802,36 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SciΠvot [Paper",
+              "description": "] [Code] [HuggingFace] | 248 pivotal moments from 26 real research projects in 6 fields, each labeled with the correction a senior researcher gave the LLM agent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SciPIvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+                "homepage": "https://autoresearch-factory.github.io/SciPIvot/",
+                "id": 1419295316,
+                "language": "Python",
+                "license": "CC-BY-4.0",
+                "last_commit": "2026-10-19T03:48:13Z",
+                "open_issues": 0,
+                "owner": "AutoResearch-Factory",
+                "repo": "SciPIvot",
+                "stars": 12,
+                "topics": [
+                  "ai-for-science",
+                  "ai-scientist",
+                  "benchmark",
+                  "dataset",
+                  "evaluation",
+                  "llm-agents",
+                  "reasoning",
+                  "scientific-research"
+                ]
+              },
+              "first_seen": "2026-10-29T22:01:50.863Z"
             }
           ],
           "description": null,
@@ -774,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:54:54.400Z",
+    "last_updated": "2026-10-29T22:01:50.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -782,11 +851,11 @@
       "id": 1307432618,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-27T00:32:28Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-29T04:51:06Z",
+      "open_issues": 1,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 100,
+      "stars": 101,
       "topics": [
         "agent-trajectory",
         "agentic-ai",
@@ -796,7 +865,7 @@
         "trajectory-analysis"
       ]
     },
-    "original_repository_sha": "1d275004cc24c9b38c98aad7cf83227e66066a09",
+    "original_repository_sha": "d6f315a3523342caab05dc2510ab75aa80ae7444",
     "enhanced_repository": "enhansome/enhansome-agent-trajectory",
     "enhanced_repository_description": null,
     "title": "Awesome-Agent-Trajectory with stars"

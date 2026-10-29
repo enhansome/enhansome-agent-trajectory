@@ -82,43 +82,47 @@ This repository is under active maintenance!
    \| Analyzes recurring failure modes in multi-agent systems and develops a taxonomy spanning agent design, coordination, and verification.
    `multi-agent` `failure-taxonomy`
 
-2. **(ASE 2025 Distinguished Paper Award) Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories** \[[Paper](https://arxiv.org/abs/2506.18824)] [![GitHub Repo stars](https://img.shields.io/github/stars/sola-st/llm-agents-study)](https://github.com/sola-st/llm-agents-study) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-05-05
+2. **(arXiv 2026) Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy** \[[Paper](https://arxiv.org/abs/2606.24177)] [![GitHub Repo stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon)](https://github.com/AutoResearch-Factory/Agon) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2026-10-06
+   \| Maps recurring failure modes from multi-agent research runs across 10+ fields, including 105 audit reports with zero clean passes and emergent group failures among agents.
+   `research-agent` `multi-agent` `failure-taxonomy`
+
+3. **(ASE 2025 Distinguished Paper Award) Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories** \[[Paper](https://arxiv.org/abs/2506.18824)] [![GitHub Repo stars](https://img.shields.io/github/stars/sola-st/llm-agents-study)](https://github.com/sola-st/llm-agents-study) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-05-05
    \| Studies 120 trajectories and 2,822 LLM interactions, identifying recurring motifs, anti-patterns, token-use patterns, and feedback-integration agentic coding behavior.
    `coding agents` `thought-action-result`
 
-3. **(ASE-NIER 2025) Exploring autonomous agents: A closer look at why they fail when completing tasks** \[[Paper](https://arxiv.org/pdf/2508.13143)] [![GitHub Repo stars](https://img.shields.io/github/stars/lurf21/Agent_Evaluation_Framework)](https://github.com/lurf21/Agent_Evaluation_Framework) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-09-15
+4. **(ASE-NIER 2025) Exploring autonomous agents: A closer look at why they fail when completing tasks** \[[Paper](https://arxiv.org/pdf/2508.13143)] [![GitHub Repo stars](https://img.shields.io/github/stars/lurf21/Agent_Evaluation_Framework)](https://github.com/lurf21/Agent_Evaluation_Framework) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-09-15
    \| Develops a three-tier taxonomy that characterizes autonomous-agent failures across task-planning, task-execution, and response-generation phases.
    `general-agent` `failure-taxonomy` `phase-analysis`
 
-4. **(arXiv 2026) Failure as a Process: An Anatomy of CLI Coding Agent Trajectories** \[[Paper](https://arxiv.org/abs/2607.09510)] [![GitHub Repo stars](https://img.shields.io/github/stars/xz-Sean/cli_trajectory_analysis)](https://github.com/xz-Sean/cli_trajectory_analysis) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-28
+5. **(arXiv 2026) Failure as a Process: An Anatomy of CLI Coding Agent Trajectories** \[[Paper](https://arxiv.org/abs/2607.09510)] [![GitHub Repo stars](https://img.shields.io/github/stars/xz-Sean/cli_trajectory_analysis)](https://github.com/xz-Sean/cli_trajectory_analysis) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-28
    \| Studies failure as a developing process across CLI-agent trajectories.
    `CLI-agent` `process-analysis`
 
-5. **(arXiv 2025) Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios** \[[Paper](https://arxiv.org/pdf/2503.12374)]
+6. **(arXiv 2025) Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios** \[[Paper](https://arxiv.org/pdf/2503.12374)]
    \| Examines intermediate development behavior beyond final code patches.
    `coding-agent` `error-taxonomy` `process-analysis`
 
-6. **(arXiv 2025) Demystifying the Lifecycle of Failures in Platform-Orchestrated Agentic Workflows** \[[Paper](https://arxiv.org/abs/2509.23735)]
+7. **(arXiv 2025) Demystifying the Lifecycle of Failures in Platform-Orchestrated Agentic Workflows** \[[Paper](https://arxiv.org/abs/2509.23735)]
    \| Characterizes how failures originate, propagate, and become visible across orchestrated agent workflows.
    `workflow-agent` `failure-lifecycle` `error-propagation`
 
-7. **(arXiv 2025) Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories** \[[Paper](https://arxiv.org/abs/2511.00197)]
+8. **(arXiv 2025) Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories** \[[Paper](https://arxiv.org/abs/2511.00197)]
    \| Comparatively studies success and failure trajectories, identifying strategies like defensive programming and context gathering that distinguish successful runs.
    `coding-agent` `comparative-study`
 
-8. **(ASE 2026) Evaluating Plan Compliance in Autonomous Programming Agents** \[[Paper](https://arxiv.org/abs/2604.12147)]
+9. **(ASE 2026) Evaluating Plan Compliance in Autonomous Programming Agents** \[[Paper](https://arxiv.org/abs/2604.12147)]
    \| Systematically analyzes 16,991 SWE-agent trajectories, finding that plan quality and reminders substantially affect compliance and task success.
    `coding-agent` `plan-compliance`
 
-9. **(OOPSLA 2026) Process-Centric Analysis of Agentic Software Systems** \[[Paper](https://arxiv.org/abs/2512.02393)]
-   \| Introduces Graphectory to encode temporal and semantic relations in agentic trajectories.
-   `process-analysis` `trajectory-representation`
+10. **(OOPSLA 2026) Process-Centric Analysis of Agentic Software Systems** \[[Paper](https://arxiv.org/abs/2512.02393)]
+    \| Introduces Graphectory to encode temporal and semantic relations in agentic trajectories.
+    `process-analysis` `trajectory-representation`
 
-10. **(arXiv 2026) Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure** \[[Paper](https://arxiv.org/abs/2604.02547)]
+11. **(arXiv 2026) Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure** \[[Paper](https://arxiv.org/abs/2604.02547)]
     \| Investigates trajectory-level behaviors associated with successful and unsuccessful issue resolution.
     `coding-agent` `behavioral-analysis` `success-factors`
 
-11. **(arXiv 2026) AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation** \[[Paper](https://arxiv.org/abs/2605.12925)]
+12. **(arXiv 2026) AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation** \[[Paper](https://arxiv.org/abs/2605.12925)]
     \| Shows that 10.7% of passing SWE-agent trajectories are "Lucky Passes".
     `coding-agent` `process-assessment`
 
@@ -126,7 +130,7 @@ This repository is under active maintenance!
 
 > *Methods that identify where a trajectory failed, which component was responsible, and why the failure occurred.*
 
-1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 396 | 🐛 5 | 🌐 Python | 📅 2026-02-11
+1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 397 | 🐛 7 | 🌐 Python | 📅 2026-02-11
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
@@ -134,7 +138,7 @@ This repository is under active maintenance!
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
-3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 110 | 🐛 1 | 🌐 HTML | 📅 2026-08-27
+3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 111 | 🐛 1 | 🌐 HTML | 📅 2026-08-27
    \| Trains an AgenTracer-8B via counterfactual replay and programmed fault injection to attribute failures to responsible agents or trajectory segments.
    `multi-agent-system` `automated labeling pipeline` `reinforcement-learning`
 
@@ -330,7 +334,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 762 | 🐛 38 | 🌐 C | 📅 2026-10-28
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 763 | 🐛 40 | 🌐 C | 📅 2026-10-29
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -372,7 +376,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 156 | 🐛 14 | 🌐 Python | 📅 2026-10-19]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 157 | 🐛 14 | 🌐 Python | 📅 2026-10-19]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -390,11 +394,11 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,146 | 🐛 53 | 🌐 Python | 📅 2026-10-23] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,151 | 🐛 53 | 🌐 Python | 📅 2026-10-23] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
-2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 396 | 🐛 5 | 🌐 Python | 📅 2026-02-11
+2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 397 | 🐛 7 | 🌐 Python | 📅 2026-02-11
    \| 127 multi-agent trajectories annotated with the responsible agent and the time at which the failure was introduced.
    `multi-agent` `agent-attribution` `temporal-localization`
 
@@ -410,11 +414,15 @@ This repository is under active maintenance!
    \| Multi-perspective attribution data (289 instances) containing per-annotator failure-reason and ideal-action annotations.
    `multi-agent` `multi-perspective` `ideal-action`
 
-6. **TRAIL** \[[Paper](https://arxiv.org/abs/2505.08638)] \[[HuggingFace](https://huggingface.co/datasets/PatronusAI/TRAIL)]
+6. **SciΠvot** \[[Paper](https://arxiv.org/abs/2610.21082)] \[[Code](https://github.com/AutoResearch-Factory/SciPIvot) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-19] \[[HuggingFace](https://huggingface.co/datasets/sun1245/SciPIvot)]
+   \| 248 pivotal moments from 26 real research projects in 6 fields, each labeled with the correction a senior researcher gave the LLM agent.
+   `research-agent` `pi-judgment` `expert-correction`
+
+7. **TRAIL** \[[Paper](https://arxiv.org/abs/2505.08638)] \[[HuggingFace](https://huggingface.co/datasets/PatronusAI/TRAIL)]
    \| 148 GAIA/SWE-Bench-derived agent traces with 841 annotated errors, for reasoning-trace analysis and agentic issue localization.
    `multi-agent` `issue-localization` `reasoning-trace`
 
-7. **LongRCA Bench** \[[Paper](https://arxiv.org/abs/2608.15242)] \[[Data](https://huggingface.co/datasets/CLoud5-real/longrca-bench)]
+8. **LongRCA Bench** \[[Paper](https://arxiv.org/abs/2608.15242)] \[[Data](https://huggingface.co/datasets/CLoud5-real/longrca-bench)]
    \| 1,140 failed trajectories from five task domains, labeled with error agent and error steps.
    `multi-task` `error-step` `MAS`
 
@@ -451,4 +459,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
