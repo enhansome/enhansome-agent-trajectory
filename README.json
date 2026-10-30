@@ -144,8 +144,8 @@
             "id": 975012144,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-02-11T17:30:51Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-30T20:20:59Z",
+            "open_issues": 6,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
             "stars": 397,
@@ -276,7 +276,7 @@
             "id": 1249762364,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-07-10T06:19:36Z",
+            "last_commit": "2026-10-30T08:01:58Z",
             "open_issues": 0,
             "owner": "LogAnalysisTech",
             "repo": "TrajAudit",
@@ -383,7 +383,7 @@
             "open_issues": 1,
             "owner": "alphadl",
             "repo": "AdaRubrics",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "agent-evaluation",
               "llm-evaluation",
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "RUCBM",
             "repo": "AgentProcessBench",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -518,10 +518,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-29T16:35:48Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 763,
+            "stars": 764,
             "topics": [
               "agent",
               "ebpf",
@@ -687,7 +687,7 @@
                 "open_issues": 53,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1151,
+                "stars": 1162,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -725,8 +725,8 @@
                 "id": 975012144,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-02-11T17:30:51Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-30T20:20:59Z",
+                "open_issues": 6,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
                 "stars": 397,
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:01:50.863Z",
+    "last_updated": "2026-10-30T21:41:58.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -855,7 +855,7 @@
       "open_issues": 1,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 101,
+      "stars": 102,
       "topics": [
         "agent-trajectory",
         "agentic-ai",
