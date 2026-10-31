@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 429,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -175,7 +175,7 @@
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 163,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -517,11 +517,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-29T16:35:48Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-31T16:43:25Z",
+            "open_issues": 44,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 764,
+            "stars": 768,
             "topics": [
               "agent",
               "ebpf",
@@ -655,7 +655,7 @@
                 "open_issues": 14,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -684,10 +684,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T15:52:23Z",
-                "open_issues": 53,
+                "open_issues": 56,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1162,
+                "stars": 1170,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:41:58.814Z",
+    "last_updated": "2026-10-31T20:41:41.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
