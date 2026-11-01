@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 430,
+            "stars": 432,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -280,7 +280,7 @@
             "open_issues": 0,
             "owner": "LogAnalysisTech",
             "repo": "TrajAudit",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -684,10 +684,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T15:52:23Z",
-                "open_issues": 56,
+                "open_issues": 65,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1170,
+                "stars": 1179,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:41:41.647Z",
+    "last_updated": "2026-11-01T21:22:58.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",

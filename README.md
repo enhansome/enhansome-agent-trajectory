@@ -78,7 +78,7 @@ This repository is under active maintenance!
 
 > *Empirical research that describes how agents behave and identifies recurring trajectory structures, strategies, and failure patterns.*
 
-1. **(NeurIPS Dataset\&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail?** \[[Paper](https://arxiv.org/pdf/2503.13657)] [![GitHub Repo stars](https://img.shields.io/github/stars/multi-agent-systems-failure-taxonomy/MAST)](https://github.com/multi-agent-systems-failure-taxonomy/MAST) ⭐ 430 | 🐛 14 | 🌐 Python | 📅 2025-07-23
+1. **(NeurIPS Dataset\&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail?** \[[Paper](https://arxiv.org/pdf/2503.13657)] [![GitHub Repo stars](https://img.shields.io/github/stars/multi-agent-systems-failure-taxonomy/MAST)](https://github.com/multi-agent-systems-failure-taxonomy/MAST) ⭐ 432 | 🐛 14 | 🌐 Python | 📅 2025-07-23
    \| Analyzes recurring failure modes in multi-agent systems and develops a taxonomy spanning agent design, coordination, and verification.
    `multi-agent` `failure-taxonomy`
 
@@ -154,7 +154,7 @@ This repository is under active maintenance!
    \| Uses abductive reasoning, interventions, and predictions to causally attribute multi-agent failures.
    `multi-agent` `causal-inference` `abductive-reasoning`
 
-7. **(arXiv 2026) TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems** \[[Paper](https://arxiv.org/abs/2605.26563)] [![GitHub Repo stars](https://img.shields.io/github/stars/LogAnalysisTech/TrajAudit)](https://github.com/LogAnalysisTech/TrajAudit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-30
+7. **(arXiv 2026) TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems** \[[Paper](https://arxiv.org/abs/2605.26563)] [![GitHub Repo stars](https://img.shields.io/github/stars/LogAnalysisTech/TrajAudit)](https://github.com/LogAnalysisTech/TrajAudit) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-30
    \| Uses an investigator agent with context-reduction mechanisms to localize the earliest decisive error step in repository-level coding-agent trajectories and generate diagnostic justifications.
    `coding-agent` `long trajectory` `context-folding`
 
@@ -394,7 +394,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,170 | 🐛 56 | 🌐 Python | 📅 2026-10-23] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,179 | 🐛 65 | 🌐 Python | 📅 2026-10-23] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -459,4 +459,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
