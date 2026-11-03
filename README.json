@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 432,
+            "stars": 433,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -114,17 +114,17 @@
             "archived": false,
             "description": null,
             "homepage": null,
-            "id": 1295476334,
+            "id": 1442865632,
             "language": "Python",
-            "license": "CC-BY-4.0",
-            "last_commit": "2026-10-28T17:14:09Z",
-            "open_issues": 1,
+            "license": "MIT",
+            "last_commit": "2026-11-02T11:21:10Z",
+            "open_issues": 0,
             "owner": "xz-Sean",
             "repo": "cli_trajectory_analysis",
             "stars": 0,
             "topics": []
           },
-          "first_seen": "2026-10-27T21:29:43.816Z"
+          "first_seen": "2026-11-03T00:03:17.932Z"
         }
       ],
       "title": "Empirical Study/Characterization"
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 111,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -521,7 +521,7 @@
             "open_issues": 44,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 768,
+            "stars": 769,
             "topics": [
               "agent",
               "ebpf",
@@ -591,7 +591,7 @@
             "id": 846543521,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T05:06:31Z",
+            "last_commit": "2026-11-02T14:37:27Z",
             "open_issues": 0,
             "owner": "on-panda",
             "repo": "on-panda",
@@ -684,10 +684,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T15:52:23Z",
-                "open_issues": 65,
+                "open_issues": 84,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1179,
+                "stars": 1188,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -784,6 +784,36 @@
             },
             {
               "node_type": "item",
+              "title": "SciΠvot [Paper",
+              "description": "] [Code] [HuggingFace] | 248 pivotal moments from 26 real research projects in 6 fields, each labeled with the correction a senior researcher gave the LLM agent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SciPIvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+                "homepage": "https://autoresearch-factory.github.io/SciPIvot/",
+                "id": 1419295316,
+                "language": "Python",
+                "license": "CC-BY-4.0",
+                "last_commit": "2026-10-19T03:48:13Z",
+                "open_issues": 0,
+                "owner": "AutoResearch-Factory",
+                "repo": "SciPIvot",
+                "stars": 13,
+                "topics": [
+                  "ai-for-science",
+                  "ai-scientist",
+                  "benchmark",
+                  "dataset",
+                  "evaluation",
+                  "llm-agents",
+                  "reasoning",
+                  "scientific-research"
+                ]
+              },
+              "first_seen": "2026-10-29T22:01:50.863Z"
+            },
+            {
+              "node_type": "item",
               "title": "MP-Bench [Paper",
               "description": "] | Multi-perspective attribution data (289 instances) containing per-annotator failure-reason and ideal-action annotations.",
               "children": [],
@@ -802,36 +832,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SciΠvot [Paper",
-              "description": "] [Code] [HuggingFace] | 248 pivotal moments from 26 real research projects in 6 fields, each labeled with the correction a senior researcher gave the LLM agent.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "SciPIvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
-                "homepage": "https://autoresearch-factory.github.io/SciPIvot/",
-                "id": 1419295316,
-                "language": "Python",
-                "license": "CC-BY-4.0",
-                "last_commit": "2026-10-19T03:48:13Z",
-                "open_issues": 0,
-                "owner": "AutoResearch-Factory",
-                "repo": "SciPIvot",
-                "stars": 12,
-                "topics": [
-                  "ai-for-science",
-                  "ai-scientist",
-                  "benchmark",
-                  "dataset",
-                  "evaluation",
-                  "llm-agents",
-                  "reasoning",
-                  "scientific-research"
-                ]
-              },
-              "first_seen": "2026-10-29T22:01:50.863Z"
             }
           ],
           "description": null,
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:22:58.541Z",
+    "last_updated": "2026-11-03T00:03:17.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
