@@ -130,7 +130,7 @@ This repository is under active maintenance!
 
 > *Methods that identify where a trajectory failed, which component was responsible, and why the failure occurred.*
 
-1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 397 | 🐛 6 | 🌐 Python | 📅 2026-10-30
+1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 396 | 🐛 6 | 🌐 Python | 📅 2026-10-30
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
@@ -334,7 +334,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 769 | 🐛 44 | 🌐 C | 📅 2026-10-31
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 769 | 🐛 45 | 🌐 C | 📅 2026-10-31
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -354,7 +354,7 @@ This repository is under active maintenance!
 
 > *Systems that help people inspect, understand, annotate, compare, or control agent trajectories.*
 
-1. **(arXiv 2026) onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction** \[[Paper](https://arxiv.org/abs/2609.24983)] \[[Website](https://on-panda.github.io/agent-trajectory-annotation/)] [![GitHub Repo stars](https://img.shields.io/github/stars/on-panda/on-panda)](https://github.com/on-panda/on-panda) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-02
+1. **(arXiv 2026) onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction** \[[Paper](https://arxiv.org/abs/2609.24983)] \[[Website](https://on-panda.github.io/agent-trajectory-annotation/)] [![GitHub Repo stars](https://img.shields.io/github/stars/on-panda/on-panda)](https://github.com/on-panda/on-panda) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-03
    \| Connects to live agent environments via MCP to support interactive token-level correction of reasoning chains and tool calls, producing on-policy SFT, preference, and fine-grained supervision data.
    `general-agent` `trajectory-annotation` `token-level-correction`
 
@@ -376,7 +376,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 158 | 🐛 14 | 🌐 Python | 📅 2026-10-19]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 160 | 🐛 14 | 🌐 Python | 📅 2026-10-19]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -394,11 +394,11 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,188 | 🐛 84 | 🌐 Python | 📅 2026-10-23] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,194 | 🐛 100 | 🌐 Python | 📅 2026-10-23] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
-2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 397 | 🐛 6 | 🌐 Python | 📅 2026-10-30
+2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 396 | 🐛 6 | 🌐 Python | 📅 2026-10-30
    \| 127 multi-agent trajectories annotated with the responsible agent and the time at which the failure was introduced.
    `multi-agent` `agent-attribution` `temporal-localization`
 
@@ -410,7 +410,7 @@ This repository is under active maintenance!
    \| 9,533 trajectories across diverse MAS architectures and task domains, automatically labeled with faulty agents and error modes via an LLM-based error injector, supporting SFT, RL, and contrastive-learning training paradigms.
    `multi-agent` `failure-attribution` `automated-annotation`
 
-5. **SciΠvot** \[[Paper](https://arxiv.org/abs/2610.21082)] \[[Code](https://github.com/AutoResearch-Factory/SciPIvot) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-10-19] \[[HuggingFace](https://huggingface.co/datasets/sun1245/SciPIvot)]
+5. **SciΠvot** \[[Paper](https://arxiv.org/abs/2610.21082)] \[[Code](https://github.com/AutoResearch-Factory/SciPIvot) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-19] \[[HuggingFace](https://huggingface.co/datasets/sun1245/SciPIvot)]
    \| 248 pivotal moments from 26 real research projects in 6 fields, each labeled with the correction a senior researcher gave the LLM agent.
    `research-agent` `pi-judgment` `expert-correction`
 
