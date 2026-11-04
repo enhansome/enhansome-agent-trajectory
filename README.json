@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 433,
+            "stars": 434,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -148,7 +148,7 @@
             "open_issues": 6,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 396,
+            "stars": 395,
             "topics": [
               "agent",
               "autogen",
@@ -383,7 +383,7 @@
             "open_issues": 1,
             "owner": "alphadl",
             "repo": "AdaRubrics",
-            "stars": 368,
+            "stars": 367,
             "topics": [
               "agent-evaluation",
               "llm-evaluation",
@@ -518,10 +518,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-31T16:43:25Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 769,
+            "stars": 771,
             "topics": [
               "agent",
               "ebpf",
@@ -591,7 +591,7 @@
             "id": 846543521,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T04:32:12Z",
+            "last_commit": "2026-11-04T08:42:26Z",
             "open_issues": 0,
             "owner": "on-panda",
             "repo": "on-panda",
@@ -683,11 +683,11 @@
                 "id": 1206519531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T15:52:23Z",
-                "open_issues": 100,
+                "last_commit": "2026-11-04T20:09:12Z",
+                "open_issues": 137,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1194,
+                "stars": 1200,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -729,7 +729,7 @@
                 "open_issues": 6,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 396,
+                "stars": 395,
                 "topics": [
                   "agent",
                   "autogen",
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:33:44.686Z",
+    "last_updated": "2026-11-04T22:55:05.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -855,7 +855,7 @@
       "open_issues": 1,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 102,
+      "stars": 103,
       "topics": [
         "agent-trajectory",
         "agentic-ai",
