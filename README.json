@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "AutoResearch-Factory",
             "repo": "Agon",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "agent-orchestration",
               "agentic-ai",
@@ -148,7 +148,7 @@
             "open_issues": 6,
             "owner": "ag2ai",
             "repo": "Agents_Failure_Attribution",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "agent",
               "autogen",
@@ -307,7 +307,7 @@
             "open_issues": 0,
             "owner": "zz-haooo",
             "repo": "ReCreate",
-            "stars": 169,
+            "stars": 170,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -328,7 +328,7 @@
             "open_issues": 2,
             "owner": "JarvisPei",
             "repo": "SCOPE",
-            "stars": 85,
+            "stars": 84,
             "topics": [
               "agents",
               "llm",
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "RUCBM",
             "repo": "AgentProcessBench",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -521,7 +521,7 @@
             "open_issues": 46,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 771,
+            "stars": 775,
             "topics": [
               "agent",
               "ebpf",
@@ -591,7 +591,7 @@
             "id": 846543521,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T08:42:26Z",
+            "last_commit": "2026-11-05T13:17:30Z",
             "open_issues": 0,
             "owner": "on-panda",
             "repo": "on-panda",
@@ -655,7 +655,7 @@
                 "open_issues": 14,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 160,
+                "stars": 164,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -683,11 +683,11 @@
                 "id": 1206519531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T20:09:12Z",
-                "open_issues": 137,
+                "last_commit": "2026-11-05T13:07:41Z",
+                "open_issues": 136,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1200,
+                "stars": 1210,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -729,7 +729,7 @@
                 "open_issues": 6,
                 "owner": "ag2ai",
                 "repo": "Agents_Failure_Attribution",
-                "stars": 395,
+                "stars": 396,
                 "topics": [
                   "agent",
                   "autogen",
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:55:05.468Z",
+    "last_updated": "2026-11-05T22:55:05.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
