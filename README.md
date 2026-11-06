@@ -334,11 +334,11 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 775 | 🐛 46 | 🌐 C | 📅 2026-10-31
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 775 | 🐛 45 | 🌐 C | 📅 2026-10-31
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
-2. **(arXiv 2026) CodeTracer: Towards Traceable Agent States** \[[Paper](https://arxiv.org/abs/2604.11641)] [![GitHub Repo stars](https://img.shields.io/github/stars/NJU-LINK/CodeTracer)](https://github.com/NJU-LINK/CodeTracer) ⭐ 96 | 🐛 8 | 🌐 Python | 📅 2026-06-19
+2. **(arXiv 2026) CodeTracer: Towards Traceable Agent States** \[[Paper](https://arxiv.org/abs/2604.11641)] [![GitHub Repo stars](https://img.shields.io/github/stars/NJU-LINK/CodeTracer)](https://github.com/NJU-LINK/CodeTracer) ⭐ 97 | 🐛 8 | 🌐 Python | 📅 2026-06-19
    \| Introduces explicit representations of coding-agent states to support stage- and step-level failure tracing.
    `coding-agent` `state-representation`
 
@@ -394,7 +394,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,210 | 🐛 136 | 🌐 Python | 📅 2026-11-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,219 | 🐛 136 | 🌐 Python | 📅 2026-11-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -459,4 +459,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
