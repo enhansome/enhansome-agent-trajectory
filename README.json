@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 436,
+            "stars": 437,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "AutoResearch-Factory",
             "repo": "Agon",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "agent-orchestration",
               "agentic-ai",
@@ -217,7 +217,7 @@
             "open_issues": 2,
             "owner": "TraceElephant",
             "repo": "TraceElephant",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -521,7 +521,7 @@
             "open_issues": 46,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 780,
+            "stars": 782,
             "topics": [
               "agent",
               "ebpf",
@@ -655,7 +655,7 @@
                 "open_issues": 14,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -687,7 +687,7 @@
                 "open_issues": 137,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1255,
+                "stars": 1265,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -798,7 +798,7 @@
                 "open_issues": 0,
                 "owner": "AutoResearch-Factory",
                 "repo": "SciPIvot",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "ai-for-science",
                   "ai-scientist",
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:33:08.381Z",
+    "last_updated": "2026-11-11T23:43:20.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -852,7 +852,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-29T04:51:06Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
       "stars": 104,
