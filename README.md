@@ -134,11 +134,11 @@ This repository is under active maintenance!
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
-2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 165 | 🐛 20 | 🌐 Python | 📅 2026-09-14
+2. **(arXiv 2026) AgentRx: Diagnosing AI Agent Failures from Execution Trajectories** \[[Paper](https://arxiv.org/abs/2602.02475)] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AgentRx)](https://github.com/microsoft/AgentRx) ⭐ 166 | 🐛 20 | 🌐 Python | 📅 2026-09-14
    \| Synthesizes and checks step-wise constraints to diagnose root causes and pinpoint the earliest unrecoverable point in failed executions.
    `general-agent` `root-cause-analysis` `failure-localization`
 
-3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 112 | 🐛 1 | 🌐 HTML | 📅 2026-08-27
+3. **(ICLR 2026) AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?** \[[Paper](https://arxiv.org/abs/2509.03312)] [![GitHub Repo stars](https://img.shields.io/github/stars/bingreeky/AgenTracer)](https://github.com/bingreeky/AgenTracer) ⭐ 113 | 🐛 1 | 🌐 HTML | 📅 2026-08-27
    \| Trains an AgenTracer-8B via counterfactual replay and programmed fault injection to attribute failures to responsible agents or trajectory segments.
    `multi-agent-system` `automated labeling pipeline` `reinforcement-learning`
 
@@ -334,7 +334,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 782 | 🐛 46 | 🌐 C | 📅 2026-11-10
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 786 | 🐛 47 | 🌐 C | 📅 2026-11-12
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -354,7 +354,7 @@ This repository is under active maintenance!
 
 > *Systems that help people inspect, understand, annotate, compare, or control agent trajectories.*
 
-1. **(arXiv 2026) onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction** \[[Paper](https://arxiv.org/abs/2609.24983)] \[[Website](https://on-panda.github.io/agent-trajectory-annotation/)] [![GitHub Repo stars](https://img.shields.io/github/stars/on-panda/on-panda)](https://github.com/on-panda/on-panda) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-10
+1. **(arXiv 2026) onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction** \[[Paper](https://arxiv.org/abs/2609.24983)] \[[Website](https://on-panda.github.io/agent-trajectory-annotation/)] [![GitHub Repo stars](https://img.shields.io/github/stars/on-panda/on-panda)](https://github.com/on-panda/on-panda) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12
    \| Connects to live agent environments via MCP to support interactive token-level correction of reasoning chains and tool calls, producing on-policy SFT, preference, and fine-grained supervision data.
    `general-agent` `trajectory-annotation` `token-level-correction`
 
@@ -376,7 +376,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 169 | 🐛 14 | 🌐 Python | 📅 2026-10-19]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 169 | 🐛 15 | 🌐 Python | 📅 2026-10-19]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -394,7 +394,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,265 | 🐛 137 | 🌐 Python | 📅 2026-11-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,276 | 🐛 137 | 🌐 Python | 📅 2026-11-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -406,7 +406,7 @@ This repository is under active maintenance!
    \| 200 multi-agent/embodied executions (ALFWorld, GAIA, WebShop) annotated under the AgentErrorTaxonomy for failure analysis and attribution.
    `multi-agent` `failure-attribution` `benchmark`
 
-4. **Aegis** \[[Paper](https://arxiv.org/abs/2509.14295)] [![GitHub Repo stars](https://img.shields.io/github/stars/kfq20/AEGIS)](https://github.com/kfq20/AEGIS) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-08-17
+4. **Aegis** \[[Paper](https://arxiv.org/abs/2509.14295)] [![GitHub Repo stars](https://img.shields.io/github/stars/kfq20/AEGIS)](https://github.com/kfq20/AEGIS) ⭐ 29 | 🐛 2 | 🌐 Python | 📅 2026-08-17
    \| 9,533 trajectories across diverse MAS architectures and task domains, automatically labeled with faulty agents and error modes via an LLM-based error injector, supporting SFT, RL, and contrastive-learning training paradigms.
    `multi-agent` `failure-attribution` `automated-annotation`
 
@@ -459,4 +459,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

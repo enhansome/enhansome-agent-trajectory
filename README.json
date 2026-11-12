@@ -175,7 +175,7 @@
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 112,
+            "stars": 113,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -517,11 +517,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-10T18:49:13Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-12T13:23:50Z",
+            "open_issues": 47,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 782,
+            "stars": 786,
             "topics": [
               "agent",
               "ebpf",
@@ -591,7 +591,7 @@
             "id": 846543521,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T13:24:59Z",
+            "last_commit": "2026-11-12T06:37:51Z",
             "open_issues": 0,
             "owner": "on-panda",
             "repo": "on-panda",
@@ -652,7 +652,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T05:03:56Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
                 "stars": 169,
@@ -687,7 +687,7 @@
                 "open_issues": 137,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1265,
+                "stars": 1276,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -777,7 +777,7 @@
                 "open_issues": 2,
                 "owner": "kfq20",
                 "repo": "AEGIS",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:43:20.288Z",
+    "last_updated": "2026-11-12T22:53:14.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
