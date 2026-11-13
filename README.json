@@ -521,7 +521,7 @@
             "open_issues": 47,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 786,
+            "stars": 787,
             "topics": [
               "agent",
               "ebpf",
@@ -687,7 +687,7 @@
                 "open_issues": 137,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1276,
+                "stars": 1287,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:53:14.201Z",
+    "last_updated": "2026-11-13T22:54:33.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
