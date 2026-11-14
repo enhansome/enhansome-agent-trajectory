@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "bingreeky",
             "repo": "AgenTracer",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -328,7 +328,7 @@
             "open_issues": 2,
             "owner": "JarvisPei",
             "repo": "SCOPE",
-            "stars": 84,
+            "stars": 83,
             "topics": [
               "agents",
               "llm",
@@ -383,7 +383,7 @@
             "open_issues": 1,
             "owner": "alphadl",
             "repo": "AdaRubrics",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "agent-evaluation",
               "llm-evaluation",
@@ -517,11 +517,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-12T13:23:50Z",
+            "last_commit": "2026-11-13T23:10:24Z",
             "open_issues": 47,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 787,
+            "stars": 790,
             "topics": [
               "agent",
               "ebpf",
@@ -684,10 +684,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T13:07:41Z",
-                "open_issues": 137,
+                "open_issues": 139,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1287,
+                "stars": 1292,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:54:33.745Z",
+    "last_updated": "2026-11-14T21:41:07.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
