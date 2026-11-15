@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "RUCBM",
             "repo": "AgentProcessBench",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -517,11 +517,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-13T23:10:24Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-15T22:00:53Z",
+            "open_issues": 52,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 790,
+            "stars": 791,
             "topics": [
               "agent",
               "ebpf",
@@ -687,7 +687,7 @@
                 "open_issues": 139,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1292,
+                "stars": 1300,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -843,7 +843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:41:07.121Z",
+    "last_updated": "2026-11-15T22:07:12.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
