@@ -78,7 +78,7 @@ This repository is under active maintenance!
 
 > *Empirical research that describes how agents behave and identifies recurring trajectory structures, strategies, and failure patterns.*
 
-1. **(NeurIPS Dataset\&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail?** \[[Paper](https://arxiv.org/pdf/2503.13657)] [![GitHub Repo stars](https://img.shields.io/github/stars/multi-agent-systems-failure-taxonomy/MAST)](https://github.com/multi-agent-systems-failure-taxonomy/MAST) ⭐ 438 | 🐛 14 | 🌐 Python | 📅 2025-07-23
+1. **(NeurIPS Dataset\&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail?** \[[Paper](https://arxiv.org/pdf/2503.13657)] [![GitHub Repo stars](https://img.shields.io/github/stars/multi-agent-systems-failure-taxonomy/MAST)](https://github.com/multi-agent-systems-failure-taxonomy/MAST) ⭐ 439 | 🐛 14 | 🌐 Python | 📅 2025-07-23
    \| Analyzes recurring failure modes in multi-agent systems and develops a taxonomy spanning agent design, coordination, and verification.
    `multi-agent` `failure-taxonomy`
 
@@ -130,7 +130,7 @@ This repository is under active maintenance!
 
 > *Methods that identify where a trajectory failed, which component was responsible, and why the failure occurred.*
 
-1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 397 | 🐛 6 | 🌐 Python | 📅 2026-10-30
+1. **(ICML 2025 Spotlight) Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** \[[Paper](https://proceedings.mlr.press/v267/zhang25cq.html)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 396 | 🐛 6 | 🌐 Python | 📅 2026-10-30
    \| Formalizes automated failure attribution at both the agent and step levels and introduces the Who\&When benchmark.
    `multi-agent` `failure-attribution` `temporal-localization`
 
@@ -298,7 +298,7 @@ This repository is under active maintenance!
    \| Dynamically generates task-specific rubrics to evaluate agent trajectories step by step and produce confidence-weighted preference data for reward learning.
    `general-agent` `rubric-evaluation` `reward-learning`
 
-2. **(arXiv 2026) AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents** \[[Paper](https://arxiv.org/abs/2603.14465)] [![GitHub Repo stars](https://img.shields.io/github/stars/RUCBM/AgentProcessBench)](https://github.com/RUCBM/AgentProcessBench) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-03-17
+2. **(arXiv 2026) AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents** \[[Paper](https://arxiv.org/abs/2603.14465)] [![GitHub Repo stars](https://img.shields.io/github/stars/RUCBM/AgentProcessBench)](https://github.com/RUCBM/AgentProcessBench) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2026-03-17
    \| Introduces human-annotated trajectories and methods for evaluating the quality of individual reasoning and tool-use steps.
    `tool-agent` `process-quality` `benchmark`
 
@@ -334,7 +334,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 792 | 🐛 54 | 🌐 C | 📅 2026-11-15
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 795 | 🐛 55 | 🌐 C | 📅 2026-11-17
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -380,7 +380,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 171 | 🐛 15 | 🌐 Python | 📅 2026-10-19]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 173 | 🐛 15 | 🌐 Python | 📅 2026-10-19]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -398,11 +398,11 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,307 | 🐛 139 | 🌐 Python | 📅 2026-11-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,316 | 🐛 137 | 🌐 Python | 📅 2026-11-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
-2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 397 | 🐛 6 | 🌐 Python | 📅 2026-10-30
+2. **Who\&When** \[[Paper](https://arxiv.org/abs/2505.00212)] [![GitHub Repo stars](https://img.shields.io/github/stars/ag2ai/Agents_Failure_Attribution)](https://github.com/ag2ai/Agents_Failure_Attribution) ⭐ 396 | 🐛 6 | 🌐 Python | 📅 2026-10-30
    \| 127 multi-agent trajectories annotated with the responsible agent and the time at which the failure was introduced.
    `multi-agent` `agent-attribution` `temporal-localization`
 
