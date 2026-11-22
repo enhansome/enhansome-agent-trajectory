@@ -517,7 +517,7 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-21T21:44:35Z",
+            "last_commit": "2026-11-22T01:51:13Z",
             "open_issues": 56,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
@@ -708,7 +708,7 @@
                 "open_issues": 136,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1325,
+                "stars": 1333,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -864,7 +864,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:26:58.072Z",
+    "last_updated": "2026-11-22T22:50:06.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
