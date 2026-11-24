@@ -517,11 +517,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-22T01:51:13Z",
-            "open_issues": 56,
+            "last_commit": "2026-11-24T00:52:21Z",
+            "open_issues": 49,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 803,
+            "stars": 805,
             "topics": [
               "agent",
               "ebpf",
@@ -676,7 +676,7 @@
                 "open_issues": 21,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -705,10 +705,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T13:07:41Z",
-                "open_issues": 136,
+                "open_issues": 137,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1333,
+                "stars": 1342,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -777,7 +777,7 @@
                 "open_issues": 4,
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
@@ -864,7 +864,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:50:06.080Z",
+    "last_updated": "2026-11-24T03:29:01.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
@@ -876,7 +876,7 @@
       "open_issues": 2,
       "owner": "YintongHuo",
       "repo": "awesome-agent-trajectory",
-      "stars": 105,
+      "stars": 106,
       "topics": [
         "agent-trajectory",
         "agentic-ai",
