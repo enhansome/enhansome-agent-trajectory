@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 441,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -175,7 +175,7 @@
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "AgentRx",
-            "stars": 169,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -517,11 +517,11 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-24T00:52:21Z",
+            "last_commit": "2026-11-24T11:59:00Z",
             "open_issues": 49,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 805,
+            "stars": 806,
             "topics": [
               "agent",
               "ebpf",
@@ -676,7 +676,7 @@
                 "open_issues": 21,
                 "owner": "uw-syfi",
                 "repo": "TraceLab",
-                "stars": 180,
+                "stars": 181,
                 "topics": [
                   "coding-agent",
                   "serving-infrastructure",
@@ -708,7 +708,7 @@
                 "open_issues": 137,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1342,
+                "stars": 1349,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -864,7 +864,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:29:01.563Z",
+    "last_updated": "2026-11-25T01:37:49.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",
