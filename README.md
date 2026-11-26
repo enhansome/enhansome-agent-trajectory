@@ -242,7 +242,7 @@ This repository is under active maintenance!
    \| Uses accumulated execution experience to construct and refine domain-specific agents.
    `general-agent` `experience-learning` `agent-construction`
 
-2. **(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness** \[[Paper](https://arxiv.org/abs/2512.15374)] [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisPei/SCOPE)](https://github.com/JarvisPei/SCOPE) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2026-03-26
+2. **(arXiv 2025) SCOPE: Prompt Evolution for Enhancing Agent Effectiveness** \[[Paper](https://arxiv.org/abs/2512.15374)] [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisPei/SCOPE)](https://github.com/JarvisPei/SCOPE) ⭐ 84 | 🐛 2 | 🌐 Python | 📅 2026-03-26
    \| Uses trajectory feedback to evolve prompts and improve future agent performance.
    `general-agent` `prompt-optimization` `self-evolution`
 
@@ -334,7 +334,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 806 | 🐛 49 | 🌐 C | 📅 2026-11-24
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 807 | 🐛 51 | 🌐 C | 📅 2026-11-24
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -380,7 +380,7 @@ This repository is under active maintenance!
 
 ### Coding Agents
 
-1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 181 | 🐛 21 | 🌐 Python | 📅 2026-10-19]
+1. **TraceLab** \[[Paper](https://arxiv.org/abs/2606.30560)] \[[Dataset](https://github.com/uw-syfi/TraceLab#-the-dataset) ⭐ 182 | 🐛 21 | 🌐 Python | 📅 2026-10-19]
    \| A trace of roughly 4,300 coding-agent sessions, containing about 350k LLM steps from our own day-to-day use of Claude Code and Codex.
    `day-to-day programming` `real-world workflow`
 
@@ -398,7 +398,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,349 | 🐛 137 | 🌐 Python | 📅 2026-11-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,358 | 🐛 137 | 🌐 Python | 📅 2026-11-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -414,7 +414,7 @@ This repository is under active maintenance!
    \| 9,533 trajectories across diverse MAS architectures and task domains, automatically labeled with faulty agents and error modes via an LLM-based error injector, supporting SFT, RL, and contrastive-learning training paradigms.
    `multi-agent` `failure-attribution` `automated-annotation`
 
-5. **SciΠvot** \[[Paper](https://arxiv.org/abs/2610.21082)] \[[Code](https://github.com/AutoResearch-Factory/SciPIvot) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-10-19] \[[HuggingFace](https://huggingface.co/datasets/sun1245/SciPIvot)]
+5. **SciΠvot** \[[Paper](https://arxiv.org/abs/2610.21082)] \[[Code](https://github.com/AutoResearch-Factory/SciPIvot) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-10-19] \[[HuggingFace](https://huggingface.co/datasets/sun1245/SciPIvot)]
    \| 248 pivotal moments from 26 real research projects in 6 fields, each labeled with the correction a senior researcher gave the LLM agent.
    `research-agent` `pi-judgment` `expert-correction`
 
@@ -463,4 +463,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
