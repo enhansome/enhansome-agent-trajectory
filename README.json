@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "multi-agent-systems-failure-taxonomy",
             "repo": "MAST",
-            "stars": 442,
+            "stars": 443,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:17.548Z"
@@ -277,7 +277,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-20T05:44:49Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "LogAnalysisTech",
             "repo": "TrajAudit",
             "stars": 3,
@@ -517,8 +517,8 @@
             "id": 1015665264,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-26T23:13:12Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-27T04:31:30Z",
+            "open_issues": 44,
             "owner": "eunomia-bpf",
             "repo": "agentsight",
             "stars": 807,
@@ -708,7 +708,7 @@
                 "open_issues": 136,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1366,
+                "stars": 1369,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -773,11 +773,11 @@
                 "id": 1064899737,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-03-30T03:31:41Z",
+                "last_commit": "2026-11-27T16:29:37Z",
                 "open_issues": 4,
                 "owner": "ulab-uiuc",
                 "repo": "AgentDebug",
-                "stars": 110,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:17.548Z"
@@ -864,7 +864,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:09:36.027Z",
+    "last_updated": "2026-11-28T00:42:17.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of agent trajectory analysis techniques and benchmark",

@@ -78,7 +78,7 @@ This repository is under active maintenance!
 
 > *Empirical research that describes how agents behave and identifies recurring trajectory structures, strategies, and failure patterns.*
 
-1. **(NeurIPS Dataset\&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail?** \[[Paper](https://arxiv.org/pdf/2503.13657)] [![GitHub Repo stars](https://img.shields.io/github/stars/multi-agent-systems-failure-taxonomy/MAST)](https://github.com/multi-agent-systems-failure-taxonomy/MAST) ⭐ 442 | 🐛 14 | 🌐 Python | 📅 2025-07-23
+1. **(NeurIPS Dataset\&Benchmark 2025) Why Do Multi-Agent LLM Systems Fail?** \[[Paper](https://arxiv.org/pdf/2503.13657)] [![GitHub Repo stars](https://img.shields.io/github/stars/multi-agent-systems-failure-taxonomy/MAST)](https://github.com/multi-agent-systems-failure-taxonomy/MAST) ⭐ 443 | 🐛 14 | 🌐 Python | 📅 2025-07-23
    \| Analyzes recurring failure modes in multi-agent systems and develops a taxonomy spanning agent design, coordination, and verification.
    `multi-agent` `failure-taxonomy`
 
@@ -154,7 +154,7 @@ This repository is under active maintenance!
    \| Uses abductive reasoning, interventions, and predictions to causally attribute multi-agent failures.
    `multi-agent` `causal-inference` `abductive-reasoning`
 
-7. **(arXiv 2026) TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems** \[[Paper](https://arxiv.org/abs/2605.26563)] [![GitHub Repo stars](https://img.shields.io/github/stars/LogAnalysisTech/TrajAudit)](https://github.com/LogAnalysisTech/TrajAudit) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-20
+7. **(arXiv 2026) TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems** \[[Paper](https://arxiv.org/abs/2605.26563)] [![GitHub Repo stars](https://img.shields.io/github/stars/LogAnalysisTech/TrajAudit)](https://github.com/LogAnalysisTech/TrajAudit) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-11-20
    \| Uses an investigator agent with context-reduction mechanisms to localize the earliest decisive error step in repository-level coding-agent trajectories and generate diagnostic justifications.
    `coding-agent` `long trajectory` `context-folding`
 
@@ -334,7 +334,7 @@ This repository is under active maintenance!
 
 > *Methods for structuring, abstracting, and exposing an agent’s internal state and external interactions.*
 
-1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 807 | 🐛 43 | 🌐 C | 📅 2026-11-26
+1. **(PACMI 2025) AgentSight: System-Level Observability for AI Agents Using eBPF** \[[Paper](https://arxiv.org/abs/2508.02736)] [![GitHub Repo stars](https://img.shields.io/github/stars/agent-sight/agentsight)](https://github.com/agent-sight/agentsight) ⭐ 807 | 🐛 44 | 🌐 C | 📅 2026-11-27
    \| Applies system-level telemetry to observe agent interactions with tools, processes, and runtime environments.
    `observability` `ebpf`
 
@@ -398,7 +398,7 @@ This repository is under active maintenance!
 
 ### General Agents/Mixed
 
-1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,366 | 🐛 136 | 🌐 Python | 📅 2026-11-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
+1. **ClawBench** \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 1,369 | 🐛 136 | 🌐 Python | 📅 2026-11-05] \[[Data](https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace)]
    \| Real-world browser-agent benchmark releasing five-layer run artifacts: MP4 replay, screenshots, HTTP requests, browser actions, and agent messages.
    `browser-agent` `multimodal-trajectory` `real-world-benchmark`
 
@@ -406,7 +406,7 @@ This repository is under active maintenance!
    \| 127 multi-agent trajectories annotated with the responsible agent and the time at which the failure was introduced.
    `multi-agent` `agent-attribution` `temporal-localization`
 
-3. **AgentErrorBench** \[[Paper](https://arxiv.org/abs/2509.25370)] [![GitHub Repo stars](https://img.shields.io/github/stars/ulab-uiuc/AgentDebug)](https://github.com/ulab-uiuc/AgentDebug) ⭐ 110 | 🐛 4 | 🌐 Python | 📅 2026-03-30
+3. **AgentErrorBench** \[[Paper](https://arxiv.org/abs/2509.25370)] [![GitHub Repo stars](https://img.shields.io/github/stars/ulab-uiuc/AgentDebug)](https://github.com/ulab-uiuc/AgentDebug) ⭐ 112 | 🐛 4 | 🌐 Python | 📅 2026-11-27
    \| 200 multi-agent/embodied executions (ALFWorld, GAIA, WebShop) annotated under the AgentErrorTaxonomy for failure analysis and attribution.
    `multi-agent` `failure-attribution` `benchmark`
 
@@ -463,4 +463,4 @@ For any enquiries, please contact Dr. Yintong Huo (<ythuo@smu.edu.sg>) or Minxin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
